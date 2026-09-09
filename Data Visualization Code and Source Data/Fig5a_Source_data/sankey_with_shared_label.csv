@@ -1,0 +1,693 @@
+SMILES,Pollutant_Type,Shared_Label
+Cc1cc(-n2nc3ccc(Cl)cc3n2)c(O)c(C(C)(C)C)c1,Industry and consumer goods,1
+CCCCc1nc(Cl)c(C(=O)O)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,Transformation and metabolic products,0
+CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1,Pharmaceuticals,1
+CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)c(F)c2)cc[n+]1[O-],Pharmaceuticals,0
+CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)c(F)c2)ccn1,Pharmaceuticals,0
+COc1ccc(Cl)cc1C(=O)NCCc1ccc(S(=O)(=O)NC(=O)NC2CCCCC2)cc1,Pharmaceuticals,0
+N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1S(=O)(=O)C(F)(F)F,Pesticides,0
+O=S(=O)(O)C(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Cl,Industry and consumer goods,0
+CC(CCl)OP(=O)(OC(C)CCl)OC(C)CCl,Industry and consumer goods,0
+CCC(=O)O[C@]1(C(=O)CO)[C@@H](C)C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](O)C[C@@]21C,Transformation and metabolic products,1
+CCOC(=O)N1CCC(=C2c3ccc(Cl)cc3CCc3cccnc32)CC1,Pharmaceuticals,0
+CN(C)C(=O)C(CCN1CCC(O)(c2ccc(Cl)cc2)CC1)(c1ccccc1)c1ccccc1,Pharmaceuticals,0
+CN(C)CCOc1ccc(/C(=C(/CCCl)c2ccccc2)c2ccccc2)cc1,Pharmaceuticals,0
+Nc1c(Br)cc(Br)cc1CNC1CCC(O)CC1,Pharmaceuticals,0
+O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12,Pharmaceuticals,0
+NS(=O)(=O)c1ccc(-n2nc(C(F)(F)F)cc2-c2ccc(Cl)cc2)cc1,Pharmaceuticals,0
+CCOC(=O)C1=C(COCCN)NC(C)=C(C(=O)OC)C1c1ccccc1Cl,Pharmaceuticals,0
+C[C@@H]1CN(C(=O)c2ccc(NC(=O)c3cc(O[C@H](C)c4c(Cl)ccc(F)c4Cl)c(N)nn3)cc2)C[C@H](C)N1,Pharmaceuticals,0
+O=C1Cc2ccccc2N1c1c(Cl)cccc1Cl,Industry and consumer goods,0
+CC(C)C(C(=O)OC(C#N)c1cccc(Oc2ccccc2)c1)c1ccc(Cl)cc1,Pesticides,0
+CNC(=O)C1Cc2c([nH]c3cc(Cl)ccc23)C2(CCN(CCc3ccccc3)CC2)N1,Transformation and metabolic products,1
+Cc1cccc(Cl)c1C(=O)NCCCCCNC(=O)c1ccccc1F,Food and other consumption,1
+O=C(NC12CC3CC(CC(C3)C1)C2)c1nn(CCCCCCl)c2ccccc12,Pharmaceuticals,1
+CCOC(=O)c1c(CS(=O)(=O)c2ccccc2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,Pharmaceuticals,0
+CCOc1cc(C=CC(=O)c2ccccc2)ccc1OCc1ccccc1Cl,Transformation and metabolic products,0
+CN(C)C(=O)CCSC(SCCC(=O)O)c1cccc(/C=C/c2ccc3ccc(Cl)cc3n2)c1,Transformation and metabolic products,0
+CN(C)CCOc1ccc(/C(=C(\CCCl)c2ccccc2)c2ccccc2)cc1,Pharmaceuticals,0
+CN1CCN(C(=O)OC2c3nccnc3C(=O)N2c2ccc(Cl)cn2)CC1,Pharmaceuticals,0
+Nc1nc2ncc(CNc3ccc(C(=O)N[C@@H](CCC(=O)Nc4cc(Cl)ccc4OC(F)(F)F)C(=O)NC4CCCC4)cc3)nc2c(=O)[nH]1,Industry and consumer goods,0
+Brc1cccc(-c2cc3cc4ccc([nH]4)c(Br)c4nc(c(Br)c5nc(c(Br)c2[nH]3)C=C5)C=C4)c1,Industry and consumer goods,0
+C=C(C)CC/C=C(/CCCCC)C(=O)[C@@H]1CC(N(C2CCC(C)CC2)C(O)[C@@H]2CCCO2)CN1C(=O)[C@H](CC(=C)C(C)(C)C)[C@@H](CC)c1ccc(Cl)cc1,Personal care products,0
+C=C(C)CCC(C(C)=O)N(C)Cc1c(C=O)cccc1CCCCCN1CC(C#Cc2sc(N(C(C)=N)C(=N)CC)c(C(=C)c3ccc(Cl)cc3)c2C)C=N1,Industry and consumer goods,0
+C=C(C)[C@@H]1CC[C@]2(NCCCl)CC[C@]3(C)[C@H](CC[C@@H]4[C@@](C)(C/C=C(/C5=CC[C@](CF)(C(=O)OCc6ccccc6)CC5)C(C)(C)C)CCC[C@]43C)[C@@H]12,Pharmaceuticals,1
+C=C/C(=C\N=C(OCC)C(C)CC)c1cc(F)c2c(c1)CCC2Nc1nc(N=C(CC)CC2CO[C@H](C(O)CC(C)CC)[C@@H]2C)c(C)cc1Cl,Industry and consumer goods,0
+C=C/C=C\CCC1OC2CCC3(C)OC4C(O)CC5OC(CC/C=C(C)/C(C)=C/C=C\c6ccc(Cl)cc6)C(C)CC5OC4CC3OC2CCC1(C)O,Transformation and metabolic products,0
+C=CCCCCCCCCN1/C(=C/C=C/C(Cl)=C/C=C/C2=[N+](CCCCCCCCC=C)c3ccc4ccccc4c3C2(C)C)C(C)(C)c2c1ccc1ccccc21,Industry and consumer goods,1
+C=CCOc1c(Cl)cc(/C=N\NC(=O)c2ccc(I)c(OC)c2)cc1Br,Pharmaceuticals,0
+CC(C)(C)CC(C)(C)c1ccc2c(c1)c1cc(C(C)(C)CC(C)(C)C)ccc1n2C1(C)CC(Cl)(C(C)(C)CC(C)(C)C)C=C(c2ccccc2)C1O,Industry and consumer goods,1
+CC(C)(C)NC(=O)CCCCCN1/C(=C/C=C2\CCC(/C=C/C3=[N+](CCCCCC(=O)NC(C)(C)C)c4ccccc4C3(C)C)C2Cl)C(C)(C)c2ccccc21,Industry and consumer goods,1
+CC(C)C1=C2C3CCC4C(C)(CCC5C(C)(C)C(OC(=O)CC(C)(C)C(=O)O)CCC54C)C3CCC2(CCN(CCN(C)C)C(C)c2ccc(Cl)cn2)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2C3CCC4C5(C)CCC(OC(=O)CC(C)(C)C(N)=O)C(C)(C)C5CCC4(C)C3(C)CCC2(CCNCc2ccc(Cl)cc2CN(C)C)CC1=O,Pharmaceuticals,1
+CC(C)C1=C2C3CCC4C5(C)CCC(OCCC(C)(C)C(=O)O)C(C)(C)C5CCC4(C)C3(C)CCC2(C(O)CNC(C)c2ccc(Cl)cn2)CC1=O,Pharmaceuticals,0
+CC(C)C[C@@H](CN(C)C)N(Cc1cccc(CN2OC(/C=C/O)[C@@H]([C@H](C)O)[C@H]2C(=O)N[C@H]2C[C@H]3C4[C@H](C3(C)C)[C@]42C)c1)Cc1c(F)cccc1Cl,Pharmaceuticals,0
+CC(C)c1cc(C(C)C)c([Si](c2ccc(Cl)cc2)=[Si](c2c(C(C)C)cc(C(C)C)cc2C(C)C)c2c(C(C)C)cc(C(C)C)cc2C(C)C)c(C(C)C)c1,Industry and consumer goods,0
+CC(O)(C(=O)Nc1ccc(C(=O)Nc2ccc(I)c(Cl)c2)cc1Cl)C(F)(F)F,Pharmaceuticals,0
+CC1(Br)CS(=O)[C@H]2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(=O)OCC(Cl)(Cl)Cl,Industry and consumer goods,0
+CC1(C)S[C@H]2N(C(=O)C2(NC(=O)Cc2ccc(O)c(O)c2)C(=O)OCC(Cl)(Cl)Cl)[C@H]1C(=O)O,Pharmaceuticals,0
+CC1=CCCC2(C)C(CCC2(O)CN(CC(O)CO)CC23CC4CC(CC(C4)C2)C3)c2ccc(cc2C(=O)Cc2c(F)cccc2Cl)CC(O)CC1,Transformation and metabolic products,1
+CC1CS(=O)(=O)c2cc(CC(=O)c3cc([N+](=O)[O-])c(Sc4c(Cl)cncc4Cl)s3)ccc21,Transformation and metabolic products,1
+CCC(=O)CCCCC[N+]1=C(C=CC2=C(Cl)C(=CC=C3N(CCCCCC(=O)NC)c4ccccc4C3(C)C)CCC2)C(C)(C)c2ccccc21,Industry and consumer goods,0
+CCC1(C(O)CNC(C)(C)c2ccc(Cl)cn2)CC(=O)C(C(C)C)=C1C1CCC2C(C)(CCC3C(C)(C)C(OC(=O)CC(C)(C)C(=O)O)CCC32C)C1C,Pharmaceuticals,0
+CCC1(CC/C=C/[C@@H]2[C@@H](C/C=C\CCCC(=O)OCCOC(=O)c3cccc(CCCCCCCCCCCCCCCC=N)c3)[C@H](Cl)C[C@H]2N=O)CCC1,Transformation and metabolic products,0
+CCCC1=C(C2COc3ccc4cc3N(C2)CC2CCC2C(CN2CCCN(C(C)C)CC2)/C=C/CC(C)C(C)SNC4=O)C=CC(Cl)C1,Industry and consumer goods,1
+CCCCC(CN(C)C)N(Cc1cccc(CN2O[C@@H](CO)[C@@H]([C@H](C)O)C2C(=O)NC2C[C@@H](CC)C(C)(C)C[C@@H]2C)c1)Cc1ccccc1Cl,Pharmaceuticals,0
+CCCCC/C=C\C/C=C\CCCCCCCCOC(=O)OC[C@H](Nc1nc(Nc2ccc(C(=O)O)c(Cl)c2)c2ncn(C(C)C)c2n1)C(C)C,Pharmaceuticals,0
+CCCCCCC(CCCCCCCC(CCO)CCCCCCCC(CCCCC)CCOc1nc(Cl)nc(NC)n1)CCOc1nc(C)nc(Cl)n1,Transformation and metabolic products,0
+CCCCCCCC/C=C\CCCCCCCCC(=O)O[C@H]1CC[C@@]2(C)C(=CC[C@H]3[C@@H]4CC[C@H](C(C)CCCOC(=O)N(CCCl)CCCl)C4CC[C@@H]32)C1,Personal care products,1
+CCCCCCCCCCCCCCCCCCCCCCC(=O)OC(C)OC(=O)N1C(N2CCN(C)CC2)=c2ccccc2=Nc2ccc(Cl)cc21,Industry and consumer goods,0
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(I)CCC[Si](C)(C)Cl,Food and other consumption,0
+CCCCCCCCCCCCCCCCN(C(=O)CCl)c1ccc(N(CCCCCCCCCCCCCCCC)C(=O)CCl)cc1,Transformation and metabolic products,1
+CCCCCCCCOc1ccc(-c2nc(Cl)nc(-c3ccc(OCCCCCCCC)cc3OCCCCCCCC)n2)c(OCCCCCCCC)c1,Food and other consumption,0
+CCCCCCN1C(=C/C=C2\CCCC(C=CC3=[N+](CCCCCC)c4ccc(OOC)cc4C3(C)C)=C2Cl)C(C)(C)c2cc(C(=O)O)ccc21,Industry and consumer goods,0
+CCCC[N+]1(Cc2cc(C(C)(C)C)cc(C=NC3CCCCC3)c2OC(Cl)Oc2c(C=N)cc(C(C)(C)C)cc2CN2CCN(C)CC2)CCN(C)C1,Transformation and metabolic products,0
+CCC[C@H](CC(=O)[C@@H]1C[C@]2(CC(c3cccc(Cl)c3)=NO2)CN1C(=O)[C@@H](NC(=O)[C@@H](Cc1cn[nH]n1)C1CCCCC1)C(C)(C)C)C(O)C(=O)CC1CC1,Pharmaceuticals,0
+CCN(C(=O)Nc1ccc(OSc2ccccc2)cc1)C(Cl)C(Br)(Br)Br,Industry and consumer goods,0
+CCN(C)CC12CC3CC(C1)CC(C(=O)N1C[C@H](O)CC1C(=O)NC(CC1CCC4CCCCC4C1)C(=O)N(C)CC1CCCCC1Cl)(C3)C2,Pharmaceuticals,1
+CCN(c1c(Cl)cc(I)cc1Cl)c1c([N+](=O)[O-])cc([N+](=O)[O-])cc1C(F)(F)F,Transformation and metabolic products,0
+CCOC(=O)CN1CCN(C(=O)C2(c3ccccc3)CCN(CCC(CN(C)C(=O)c3cc(OC)c(OC)c(OC)c3)c3ccc(Cl)cc3)CC2)CC1,Pharmaceuticals,0
+CC[C@@H](C)[C@H](NC(=O)CCCCCCCC(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](Cc1ccccc1)C(=O)O)C(=O)N[C@@H](Cc1ccc(Br)cc1)C(N)=O,Transformation and metabolic products,0
+CC[C@H](CC[C@@]1(C)[C@H](C)CC[C@]2(C)[C@@H]1CC[C@@H]1C3=C(C(C)C)C(=O)C[C@]3(C(O)c3nnc(-c4ccc(Cl)cn4)n3C)CC[C@]12C)OC(=O)CC(C)(C)C(=O)O,Pharmaceuticals,0
+CC[C@H](CC[C@@]1(C)[C@H](C)CC[C@]2(C)[C@@H]1CC[C@@H]1C3=C(C(C)C)C(=O)C[C@]3(c3nnc(-c4ccc(Cl)cn4)o3)CC[C@]12C)OC(=O)CC(C)(C)C(=O)O,Pharmaceuticals,0
+CC[C@H]1OC(=O)[C@H](C)[C@@H](O)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)CC)[C@H]2O)[C@@](C)(OC)C[C@@H](C)C(=O)[C@@H](C)[C@H]2N(CCc3ccc(Cl)cc3)C(=O)O[C@]12C,Industry and consumer goods,0
+COCCCN1CCOc2ccc(CO[C@H]3CN(C(=O)OC(C)(C)C)CC[C@]3(O)c3ccc(Cl)cc3CCO[Si](C(C)C)(C(C)C)C(C)C)cc21,Transformation and metabolic products,0
+COCCCn1c([C@@H]2CCCN(C(=O)C[C@@H](Cc3ccc(-c4ccc(C(=O)NCCOC)cc4Cl)cc3)N(C(=O)O)C(C)(C)C)C2)nc2ccccc21,Pharmaceuticals,0
+COc1ccc(C(N)=O)c(-c2c(Cl)c(F)cc3c2[C@H](C)[C@@](CNC2CCC(C(=O)N4CCC(CC5CCNCC5)CC4)CC2)(c2ccccc2)O3)c1F,Transformation and metabolic products,0
+C[Si](C)(Cl)CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCI,Food and other consumption,0
+Cc1cc(C(C#N)c2ccc(Cl)cc2)c(Cl)cc1Nc1ncnc(Oc2ccc(Br)cc2)c1[N+](=O)[O-],Transformation and metabolic products,0
+Cc1cc(NS(=O)(=O)c2nnc(NC(=O)c3ccc(Cl)cc3Cl)s2)ccc1Br,Pharmaceuticals,0
+Cc1ccc(COc2c(Cl)cc(/C=C3\C(=O)NC(=S)N(c4cccc(Cl)c4Cl)C3=O)cc2Br)cc1,Transformation and metabolic products,0
+ClC(Cl)(Cl)COP(OCC(Cl)(Cl)Cl)(OCC(Cl)(Cl)Cl)(OCC(Cl)(Cl)Cl)OCC(Cl)(Cl)Cl,Industry and consumer goods,1
+Clc1nc(Oc2c(Br)cc(Br)cc2Br)nc(Oc2c(Br)cc(Br)cc2Br)n1,Food and other consumption,0
+Cn1nnnc1C(C=C[C@@H]1C[C@@H](O)CC(=O)O1)=C(c1c(Cl)cccc1Cl)c1c(Cl)cccc1Cl,Transformation and metabolic products,0
+N#Cc1ccc(OCC2(COC(=O)C(F)(F)F)CN(S(=O)(=O)c3ccc(Cl)cc3Cl)C2)cc1F,Pharmaceuticals,0
+O=C(C(=O)N1N=C(c2ccc(Br)cc2)CC1(O)C(Cl)(Cl)Cl)N1N=C(c2ccc(Br)cc2)CC1(O)C(Cl)(Cl)Cl,Industry and consumer goods,0
+O=C(Nc1cncc([N+](=O)[O-])c1)c1cc(NC(=O)[C@H]2[C@H](c3cc(Cl)cc(Cl)c3)C2(Cl)Cl)ccc1Cl,Pharmaceuticals,0
+O=C(O)CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC[Si](Cl)(Cl)Cl,Pharmaceuticals,0
+O=C1CNC(=O)[C@@H](Cc2ccc(NC(=O)C3(NC(=O)Cc4ccccc4)C[C@H]3c3ccccc3Cl)cc2)NC(=O)CC2(CCCC2)CC(=O)NCCCCCN1,Pharmaceuticals,0
+O=C1NC(=S)N(c2ccc(Cl)cc2)C(=O)C1=Cc1c(Sc2ccc(Cl)cc2)nc2sccn12,Industry and consumer goods,0
+O=S(=O)(CC(Br)Br)OCC(O)(CC(Cl)(Cl)Cl)c1cc(Br)c(Br)c(Br)c1,Industry and consumer goods,1
+C#Cc1cc(C[C@@H](CC(=O)N2CCC(N3CCc4ccccc4NC3=O)CC2)C(=O)N2CCC(N3CCCN(C)CC3)CC2)cc(Cl)c1N,Pharmaceuticals,0
+C=C(C)OC1C[C@@]2(C)[C@@H](C[C@@H](O)[C@H]3[C@@]4(C)CC[C@@H](C)[C@](C)(c5ccc(Cl)cc5)[C@H]4CC[C@@]32C)/C1=C(\CCC=C(C)C)C(=O)OCOC(=O)C(C)(C)C,Pharmaceuticals,0
+C=CCCCNc1ccc(SN2CCN(c3cc(C(F)(F)C4(CCPC(=C)N(CCCN)CCCN)CCCCC4)cc(Cl)n3)CC2)cc1,Pharmaceuticals,0
+C=CCc1cc(/C=C2\C(=O)NC(=S)N(c3cccc(Cl)c3Cl)C2=O)cc(Br)c1OCc1ccccc1C#N,Transformation and metabolic products,0
+C=Cc1cnccc1-c1cc(Cl)c(C(=O)Nc2cnc(-n3nccn3)c(C(F)(F)F)c2)cc1F,Industry and consumer goods,0
+C=S(NC)C(C)C(C)C/C=C/C(CN1CCN(C(C)(C)C)CC1)C1CCC1CN1CC(c2ccc(Cl)cc2CCC)COc2ccc(C=O)cc21,Transformation and metabolic products,0
+CC(=O)C1N(C(C)=O)C2=C(N(C(C)=O)C(Cl)N=C2Cl)N1[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,Industry and consumer goods,0
+CC(=O)Nc1ccccc1C1=CC(Cl)(C(=S)NC(N)=O)C(O)(OCc2ccccc2)C(Cl)=C1,Personal care products,0
+CC(=O)Nc1cnc(S(=O)(=O)Nc2nc(-c3ccc(F)c(Cl)c3)c(Br)s2)c(C)c1,Transformation and metabolic products,0
+CC(C)C1=C2C3CCC4C(C)(CCC5C(C)C(OC(=O)CC(C)(C)C(=O)O)CCC54C)C3CCC2(C(O)CN(C)Cc2ccccc2Cl)CC1=O,Transformation and metabolic products,1
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2(C(=O)NCc2cccc(Cl)c2)CC1=O,Pharmaceuticals,0
+CC1(C)C(=O)Nc2nc(-c3nn(Cc4ncccc4F)c4cc(Cl)ccc34)nnc21,Industry and consumer goods,0
+CC1(C)c2ncccc2C(O)=C(c2c(C(F)(F)F)ccc(Cl)c2OCc2ccccc2)S1=S=O,Industry and consumer goods,0
+CCCC[C@@H](OC(N)=O)[C@@H](Cl)[C@H](O)CC(=O)C(O)C(O)[C@H](C)CCCCCC(C)CCCCC(=O)O[C@@H]1C[C@@H](C(=O)OC)CC[C@@H]1O,Industry and consumer goods,1
+CCOC(=O)c1nn(-c2ccc(Br)cc2F)c(-c2ccc(Cl)cc2)c1S(C)(=O)=O,Industry and consumer goods,0
+CCOc1cc(C=NNC(=O)CSc2nnc(N)s2)cc(Br)c1OCc1c(Cl)cccc1Cl,Transformation and metabolic products,0
+CC[C@H]1CCCC(CCc2ccc(CCC(=O)c3ccc(C)c(C#Cc4cnc(NC(C=NCCC(C)(C)O)=CN)nc4)c3)cc2Cl)CC1,Pharmaceuticals,0
+CC[N+]1=NC(C(=O)NC2C(=O)N3C(C(=O)O)=C(CSc4nnc(C)s4)CSC23)C(Cl)=C1,Pharmaceuticals,0
+CNc1ccccc1CCN(C=O)C1CCN(C(=O)O[C@H](Cc2cc(Cl)c(N)c(C(F)(F)F)c2)C(=O)N2CCN(C3CCN(CC(=O)O)CC3)CC2)CC1,Transformation and metabolic products,0
+COC(=O)C1=C(CF)NC(C)=C(C(=O)OC2CS(=O)C2)C1c1c(F)ccc(Cl)c1C(F)(F)F,Transformation and metabolic products,0
+COC(=O)[C@]1(C)CC[C@]2(C)CC[C@]3(C)C4=CC=C5C(=CC(=O)C(OCC(=O)NCc6cn(Cc7ccc(Cl)cc7)nn6)=C5C)[C@]4(C)CC[C@@]3(C)[C@@H]2C1,Transformation and metabolic products,0
+COC(=O)c1ccc(CN2C(=O)S/C(=C/c3cc(Cl)c(OCc4ccccc4Cl)c(OC)c3)C2=O)o1,Transformation and metabolic products,0
+COC(=O)c1ccccc1-c1c(/C=C/c2ccccc2)c(Cl)cn(Cc2ccccc2)c1=O,Transformation and metabolic products,0
+COC1CCC(C(=O)NCCSC(c2cc(Cl)ccc2N)c2ccccc2Cl)CC1,Industry and consumer goods,0
+COCCCN1C(=O)CSC1=Nc1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl,Industry and consumer goods,0
+COc1cc(OC(F)F)c(Cl)c2c1C(=O)[C@@]1(O2)C(OCc2ccccc2)=CC(=O)C[C@H]1C,Pharmaceuticals,0
+COc1ccc(Cc2cc([C@@H]3OC(CO)(CO)[C@@H](O)[C@H](O)[C@H]3O)ccc2Cl)c(F)c1F,Pharmaceuticals,0
+Cc1cc(Br)cnc1Sc1c(Cl)cc(NC(=O)NC(=O)c2ccccc2Cl)cc1Cl,Pharmaceuticals,0
+Cc1cc(Cl)cc2c1O[C@H](C(F)(F)F)C(C(=O)OCOC(=O)OCCCCOO)=C2,Food and other consumption,0
+Cn1c(=O)n2n(c1=O)[C@@H]1C[C@@]3(Cl)C(=O)N(CBr)C(=O)[C@@]3(Cl)[C@@H](c3cc(OC(F)(F)F)ccc3O)C1=CC2,Transformation and metabolic products,0
+Cn1c(C(F)(F)F)cc(=O)n(-c2cc(N=C3SCC(O)N3CC(=O)O)c(Cl)cc2F)c1=O,Industry and consumer goods,0
+N#Cc1cc(Cl)cc(Oc2c(Cl)ccc(CNC(=O)c3cc4ccncc4n3OC(=O)C(F)(F)F)c2F)c1,Pharmaceuticals,0
+N#Cc1nn(-c2cc(Cl)c(Oc3ccc4c(c3)CCN(c3nccs3)C4=O)c(Cl)c2)c(=O)[nH]c1=O,Pharmaceuticals,0
+Nc1cc2ccccc2c(-c2c(Cl)cc3c(c2F)SCN3N2CCN(C=CC=O)CC2)n1,Industry and consumer goods,0
+O=C(C1=C(O)C(=O)N(c2nnc(SCc3ccc(Cl)cc3)s2)C1c1cccnc1)c1cccs1,Transformation and metabolic products,0
+O=C(C1=C(O)C(=O)N(c2nnc(SCc3ccccc3Cl)s2)C1c1cccnc1)c1cccs1,Industry and consumer goods,0
+O=C(CSc1nc2ccc(N3C(=O)c4cccc([N+](=O)[O-])c4C3=O)cc2s1)Nc1ccccc1Cl,Industry and consumer goods,0
+O=C(Cn1nc(-c2ccc([N+](=O)[O-])cc2Cl)oc1=O)N1CCC2(CC1)OCCO2,Pharmaceuticals,0
+O=C(N[C@@H](Cc1ccsc1)C(=O)O)c1ccc(Cl)cc1NS(=O)(=O)C1=CC=CN2SNC=C12,Transformation and metabolic products,0
+O=C(O)/C(Cc1c(Br)cccc1[N+](=O)[O-])=N/Nc1nc(-c2ccc(Cl)c(Cl)c2)cs1,Transformation and metabolic products,0
+O=C1CC(CNc2nc3nccc(C(=Nc4ccc(F)c(Cl)c4)NO)c3[nH]2)CN1,Industry and consumer goods,0
+O=C1CCCc2c1sc1nc(-c3ccc(Cl)s3)c(-c3nc4c(F)cc(Br)cc4[nH]3)n21,Transformation and metabolic products,0
+O=C1CSC(c2c(Br)cccc2Br)N1c1cccc(C(F)(F)F)n1,Industry and consumer goods,0
+O=S(=O)(O)CN1C(=Cc2sc3ccoc3[n+]2CS(=O)(=O)O)Sc2cc(Cl)c(Cl)cc21,Industry and consumer goods,0
+O=c1[nH]c(=O)n(C2CC3OP(=O)(N(CCCl)CCCl)NCC3O2)cc1I,Pharmaceuticals,0
+O=c1ccn(-c2cccc(N3CCC(CN4CCN(CCN5CCC(Nc6ncc(Cl)c(-c7c[nH]c8ccccc78)n6)C5)CC4)CC3)c2)c(=O)[nH]1,Pharmaceuticals,1
+O=c1cnn(-c2cc(Cl)c(C3(c4nc(-c5ccccc5Cl)cs4)CCc4ccccc43)c(Cl)c2)c(=O)[nH]1,Pharmaceuticals,0
+[N-]=[N+]=NCc1c(C(=O)NN2CCCCC2)nc(-c2ccc(Cl)cc2Cl)n1-c1ccc(Br)cc1,Pharmaceuticals,0
+CCOc1cc(/C=C2\SC(=NC(=O)c3ccc(Cl)cc3)NC2=O)cc(I)c1O,Industry and consumer goods,0
+COC(=O)COc1c(Cl)cc(/C=N\NC(=O)c2cc3cc(Br)cc(I)c3o2)cc1OC,Transformation and metabolic products,0
+COc1c(Br)cc2c(O)c(C3=Nc4cc(Br)ccc4C3=O)[nH]c2c1Br,Food and other consumption,0
+Cc1cc(Cl)c(C(C#N)c2ccc(Cl)cc2)cc1NC(=O)c1cc(I)cc(I)c1O,Industry and consumer goods,0
+Cn1nc(OC(F)F)c(I)c1C(=O)Nc1ccc(Cl)c(C(=O)NCC(F)(F)F)c1,Pesticides,0
+N/C(=N\OC(=O)c1ccn(COc2ccc(Br)cc2Cl)n1)c1ccc(Cl)cc1Cl,Industry and consumer goods,0
+NC(=O)c1c(F)ccc(OCCC(C(=O)O)c2nc(-c3ccc(OC(F)(F)F)cc3)c(Br)o2)c1F,Industry and consumer goods,0
+O=C(Nc1c(Br)cc(C(F)(C(F)F)C(F)(F)F)cc1Br)c1cccc([N+](=O)[O-])c1F,Industry and consumer goods,0
+O=C(Nc1cc(I)ccc1Cl)c1cc(Br)ccc1I,Industry and consumer goods,0
+O=C(OC(C(=O)Nc1cc(Cl)cc(Cl)c1)c1ccccc1)c1cccc(I)c1,Industry and consumer goods,0
+O=C1c2ccc(OS(=O)(=O)C(F)(F)F)cc2Oc2c(Cl)cc(C(=O)c3ccccc3O)n2-c2c1[nH]c(Cl)c2Cl,Industry and consumer goods,0
+C/C1=C\C=C\[C@@H](C)[C@@]2(O)CC(OC(=O)N2)[C@@H](C)[C@@H]2O[C@@]2(C)[C@@H](OC(=O)[C@H](C)N(C)C(=O)CCCS)CC(=O)N(C)c2cc(cc(C)c2Cl)C1,Industry and consumer goods,0
+CC(=O)N1C=CN(C(=O)/C=C\Cl)[C@H](C)[C@H]1c1cc(Cl)cc(-c2cnc(C)nc2)c1,Pharmaceuticals,0
+CC(CO)(CO)NCc1cc(Cl)c(OCc2cccc(-c3cccc(OCCCN4CC[C@@H](O)C4)c3Cl)c2Cl)cc1OCc1cc(C#N)ccc1F,Pharmaceuticals,0
+CC1(C)C(C=C(Cl)C(F)(F)OCC(F)(F)F)C1(C(=O)[O-])C(C#N)c1cccc(Oc2ccccn2)c1,Pesticides,0
+CC1(C)C(N)=N[C@](CF)(c2cc(Nc3ncc(F)c4cc(Cl)cnc34)ccc2F)CS1(O)O,Pharmaceuticals,0
+CCN(CC)C(=O)Nc1ccc(S(=O)(=O)N2C(=O)C(N)(c3ccccc3Cl)c3c2ccc(Cl)c3C(CCCCNC(=O)OC(C)(C)C)C(=O)OC)cc1,Industry and consumer goods,0
+CCOC(=O)c1c(COCC(=O)O)nc(CO)c(C(=O)O)c1-c1ccccc1Cl,Transformation and metabolic products,0
+CCOc1cccc2cc(-c3cc(=O)oc4cc(OCc5c(F)cccc5Cl)ccc34)c(=O)oc12,Transformation and metabolic products,0
+CCn1nc(C(=O)NCC2CCC(S(C)(=O)=O)CN2NC(=O)OCc2ccccc2)c(Cl)c1-c1ccc(CC(C)(C)C(F)(F)F)cc1OC(F)F,Industry and consumer goods,0
+CN1C(C(=O)Nc2ccc(F)c(Cl)c2)CC(c2cc(-c3cnn(C(F)(F)F)c3)cs2)NS1=O,Transformation and metabolic products,0
+CO/N=C(/C(=O)OC)c1ccccc1COc1ccc2c(-c3snc(Cl)c3Cl)c(Cl)c(=O)oc2c1Cl,Pesticides,0
+COC(=O)c1scc2c1C(=O)N(c1cc(CN3CCCc4ccccc43)ccc1Cl)C(=O)C2,Industry and consumer goods,0
+COCCNC(=S)NNC(=O)c1cc2cc(Br)cc(I)c2o1,Transformation and metabolic products,0
+COc1cc2c(cc1Br)[C@H](c1ccccc1)C[C@H](c1ccc(OC)c(OCc3ccccc3)c1)O2,Transformation and metabolic products,0
+COc1cc2cc(c1Cl)N(C)C(=O)CC(OC(=O)[C@H](C)N(C)C(=O)CCS(=O)(=O)O)C1(C)OC1C(C)C1CC(O)(NC(=O)O1)C(OC)/C=C/C=C(\C)C2,Industry and consumer goods,0
+COc1ccc(S(=O)(=O)C2CNC(SCC(=O)Nc3ccc(F)cc3)NC2=O)cc1Cl,Transformation and metabolic products,0
+Cc1ccc(N2CCN(c3ncc(/C(N)=N/N(N)CC(=O)O)s3)CC2)cc1Cl,Industry and consumer goods,0
+Cc1nccnc1-c1ccc(-c2cc3cnc(S(C)=O)nc3n(Cc3cccnc3)c2=O)c(Cl)c1,Industry and consumer goods,1
+N#Cc1sccc1-c1c(-c2cccc(-c3ccc(CNSNN)cc3Cl)c2)[nH]c2ccc(F)cc12,Food and other consumption,0
+O=C(COc1ccc(Cl)cc1Cl)N/N=C/c1cc(I)c(OCc2ccc(C(=O)O)cc2)c(I)c1,Pesticides,0
+O=C(O[C@@H]1O[C@H](C(=O)O)[C@@H](O)[C@H](O)[C@H]1O)c1ccccc1Nc1c(Cl)ccc(CO)c1Cl,Transformation and metabolic products,0
+O=CNc1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)c(F)c2)ccn1,Pharmaceuticals,0
+C/C=C\C1=C(C)C(C)(C)C(C(C)CC2=C(Cl)/C(=C/C=C3/N(CCCCCC(=O)OCCC45CC6CC(CC(C6)C4)C5)c4ccccc4C3(C)C)CCC2)=[N+]1CC,Industry and consumer goods,0
+C=C(C)C1NC(=O)[C@@H](NC)[C@@H](C)c2cc(Cl)c(O)c(c2)O[C@](C)(CC)[C@@H](C(=O)N2CC=C[C@H]2C(=O)N/C(C(=O)N/C(=C/C(=O)O)C(=O)O)=C(\C)CC)NC1=O,Transformation and metabolic products,0
+C=C(C)CC(CCC)CCC(=C)C(C)COC1CCC(NC2C(C#N)CNC3CC(OCC)C(NC(=O)CCCNCCO)CC32)CC1Cl,Industry and consumer goods,0
+C=C(C)[C@@H]1CC[C@]2(CCNCCN3CCN(Cc4cccc(Cl)c4)CC3)CC[C@]3(C)[C@H](CC[C@@H]4[C@@]5(C)CC[C@H](O)C(C)(C)[C@@H]5CC[C@]43C)[C@@H]12,Industry and consumer goods,1
+C=C(CC(C)(C)C(=O)O)O[C@H]1CC[C@@]2(C)[C@@H](CCC3(C)[C@@H]2CCC2C4=C(C(C)C)[C@@H](C)C[C@]4(c4c(Cl)c(=O)n(-c5ccc(OC)cc5)n4C)CC[C@]23C)C1(C)C,Pharmaceuticals,0
+C=C(C[Si](N[Si](Cl)(C(C)(C)C)C(C)(C)C)(C(C)(C)C)C(C)(C)C)C[Si](N[Si](Cl)(C(C)(C)C)C(C)(C)C)(C(C)(C)C)C(C)(C)C,Personal care products,0
+C=C(Cl)C[C@H](CC(=O)N(CC(=O)N(C)CCc1ccccn1)CC1CCCCC1)C(=O)N[C@@H](CC1CCCCC1)[C@H]1OC(C)(C)O[C@H]1CC(C)C,Industry and consumer goods,0
+C=C(N[C@@H](CCCN=C(N)N)C(=O)Cl)[C@@H](CCCCN)NC(=O)[C@H](NC(=O)[C@H](CCCN=C(N)N)NC(=O)CCCCCCCCCC)C(C)C,Food and other consumption,0
+C=C(O)CC(C)(C)CC(=C)O[C@H]1CC[C@@]2(C)C(CC[C@]3(C)C2CC[C@@H]2C4C(C(=C)C)CC[C@]4(CC(=O)NCc4ccc(Cl)cc4O)CC[C@]23C)C1(C)C,Industry and consumer goods,0
+C=CC(=O)N1C[C@H](C)N(C2NC(=O)N3C4NC(C(C)CC42)C2C(CCC(Cl)C2F)OCC(O)C(OCC)C2CCNC(C(C)C)C23)C[C@H]1C,Transformation and metabolic products,0
+C=S1(=O)NC(=O)c2ccc3c(c2)N(C[C@@H]2CC[C@H]2[C@@](CN2CCN(N(CC)CC)CC2)(OCC)/C=C/C[C@H](C)[C@H]1C)C[C@@]1(CCCc2cc(Cl)ccc21)CO3,Pharmaceuticals,0
+C=S1(=O)NC(=O)c2ccc3c(c2)N(C[C@@H]2CC[C@H]2[C@](CN2CCC4(CCO4)CC2)(OCC)/C=C/C[C@H](C)[C@H]1C)C[C@@]1(CCCc2cc(Cl)ccc21)CO3,Pharmaceuticals,0
+C=S1NC(=O)c2ccc(cc2)OCC(c2ccc(Cl)cc2CCC)CN(C)CC2CCC2C(CN2CCCCCCNCC2)(OC)/C=C/CC(C)C1C,Pharmaceuticals,0
+C=S1NC(=O)c2ccc3c(c2)N(CC(c2ccc(Cl)cc2CCC)CO3)CC2CCC2C(CN2CCN(C(C)(C)C)CC2)(OC)/C=C/CC(C)C1C,Pharmaceuticals,0
+CC(=O)OC1CCC2(C)C(CCC3(C)C4CCC5(CC(=O)N(CCN(C)C)CC6(c7ccc(Cl)cc7)CC6)CC(=O)C(C(C)C)=C5C4CCC32)C1(C)C,Pharmaceuticals,0
+CC(=O)O[C@H]1CC[C@]2(C)[C@H]3CC[C@@H]4C5=C(C(C)C)CC[C@]5(C(O)CN(Cc5ccc(Cl)cc5)C(=O)OC(C)(C)C)CC[C@@]4(C)[C@]3(C)CC[C@H]2C1(C)C,Transformation and metabolic products,0
+CC(C)(C)CC(C)(C)CN(CC(C)(C)CC(C)(C)C)C(=O)OCOC1=Nc2cc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)ccc2CC1,Pharmaceuticals,0
+CC(C)(OC1CCCCO1)C1CCCCC1CCC(CC(C)(C)[Si](C)(C)O)C1CCCC(CCC2CCC3CCC(Cl)CC3N2)C1,Industry and consumer goods,0
+CC(C)C1=C2C(CC1=O)[C@@H](C(=O)N(CCN(C)C)Cc1ccc(Cl)cc1)C[C@@H]1[C@@H]2CC[C@@H]2C3[C@H](C)C=C(C4=CCC(C(=O)O)CC4)C(C)(C)[C@@H]3CC[C@]21C,Transformation and metabolic products,0
+CC(C)C1=C2C([C@@H](O)CNC3(c4ncc(Cl)cn4)CC3)(CC[C@]3(C)[C@]2(N)CC[C@@H]2[C@@]4(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C(C)(C)[C@@H]4CC[C@]23C)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2C3CCC4C(C)(CCC5C(C)(C)C(C6=CCC(C(=O)O)CC6)=CCC54C)C3CC[C@@]2(CCN(CCN(C)C)Cc2ccc(Cl)cc2)CC1=O,Industry and consumer goods,0
+CC(C)C1=C2C3CCC4C(C)(CCC5C(C)(C)C(CC(=O)C6CC(C=O)C6C)CCC54C)C3CCC2(CCNCc2ccc(Cl)cc2OC2CCOC2)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2C3CCC4C(C)(CCC5C(C)(C)C(OC(=O)CC(C)(C)C(=O)OC(C)(C)C)CCC54C)C3CCC2(/C=C/C(=O)NC(C)C2=CCCC(Cl)=C2)CC1,Pharmaceuticals,1
+CC(C)C1=C2C3CCC4C(C)(CCC5C(C)(C)C(OC(=O)CC(C)(C)C=O)CCC54C)C3CCC2(C(O)CN(CCN)Cc2ccc(Cl)cc2)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2C3CCC4C5(C)CCC(OC(=O)CC(C)(C)C(=O)O)C(C)(C)C5CCC4(C)C3(C)CCC2(C2=NCC=C=C(c3ccccc3Cl)CC2)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2C3CCC4C5(C)CCC(OC(=O)CC(C)(C)C=O)C(C)(C)C5CCC4(C)[C@]3(C)CCC2(c2cc(=O)n(-c3ccc(Cl)cc3)n2C)CC1,Pharmaceuticals,0
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)C=C[C@@]2(CCN(CCN(C)C)Cc2ccccc2Cl)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(N)CC[C@@]2(/C=C/C(=O)N[C@H](C)c2ccc(Cl)cc2)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)[C@H]6C[C@@H](C(=O)O)C6(C)C)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2([C@@H](O)CNCc2ccc(Cl)cn2)CC1=O,Transformation and metabolic products,0
+CC(C)C1=C2[C@H]3CC[C@H]4C(C)(CC[C@@]56[N+]#C[C@]5(C)C(OC(O)CC(C)(C)C(=O)O)CC[C@]46C)[C@]3(C)CC[C@@]2(Cc2cc(=O)n(-c3ccc(Cl)cc3)n2C)CC1,Pharmaceuticals,0
+CC(C)CC[NH2+]c1ccc2ccccc2c1C1(C/C=C2\CCC(C=C3N(CCC(C)C)c4ccc5ccccc5c4C34CCCCC4)=C2Cl)CCCCC1,Industry and consumer goods,0
+CC(C)C[C@@H](CN(C)C)N(Cc1cccc(CN2O[C@@H](CO)[C@@H]([C@H](C)O)[C@H]2C(=O)N[C@H]2C[C@@H](C)C(C)(C)C[C@@H]2C)c1)Cc1ccccc1Cl,Pharmaceuticals,0
+CC(Cl)CC(C)CC(C)CC(C)CCCC(OCc1ccccc1)OC(CCCC(C)CC(C)CC(C)CC(C)Cl)OCc1ccccc1,Transformation and metabolic products,0
+CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)NCCN(CCCN1CCNCC1)CCNC(=O)C(C)(C)Oc1ccc(Cl)cc1,Transformation and metabolic products,0
+CC1(C)CC(N2C(C)(C)CC(N(C=O)c3nc(Cl)nc(N(C=O)C4CC(C)(C)N(C5CC(C)(C)NC(C)(C)C5)C(C)(C)C4)n3)CC2(C)C)CC(C)(C)N1,Transformation and metabolic products,0
+CC1C(C2=CCC(CCOc3ncccc3Cl)(C(=O)O)CC2)=CCC2(C)C1CCC1(C)C2CCC2[C@H]3CCCC3(NCCN3CCS(=O)(=O)CC3)CC[C@]21C,Pharmaceuticals,0
+CC1CCC2C(C1)OC1CC(C)CC3C4CC(c5cc(Cl)cc(C6CCC7C(C6)C6CC(C)CC8OC9CC(C)CCC9N7C86)c5)CCC4N2C13,Industry and consumer goods,0
+CC1C[N+](CN(c2nc(Cl)nc(N(C[N+]3(C4CCCCC4)CC(C)NC(C)(C)C3=O)C3CCCCC3)n2)C2CCCCC2)(C2CCCCC2)C(=O)C(C)(C)N1,Industry and consumer goods,0
+CCC(=CC(Cl)(Cl)C(Cl)(Cl)C(Cl)(Cl)C(Cl)(Cl)C(Cl)(Cl)C(Cl)(Cl)C(Cl)(Cl)C(Cl)(Cl)Cl)C(=O)O,Industry and consumer goods,0
+CCC(C)(C)CC(=O)OC1CCC2(C)C(CCC3(C)C4CCC5(CCN(CCN(C)C)Cc6ccc(Cl)cc6)CC(=O)C(C(C)C)=C5C4CCC32)C1C,Transformation and metabolic products,0
+CCC(CC(CC12CCC(C(C)C)=C1C1CCC3C4(C)CCC(OC(=O)CC(C)(C)C(=O)O)C(C)(C)C4CCC3(C)C1(C)CC2)=NC)=NCC1C=CC(Cl)=CC1,Pharmaceuticals,0
+CCC(CC)N(CCN(C)C(=O)CCC(=O)O)Cc1cccc(C(=O)Nc2sc3c(c2C(=O)c2cnn(-c4ccc(Cl)cc4)c2)CCN(C(=O)N(C)C)C3)c1,Pharmaceuticals,0
+CCC1CCC2(C)C3CCC4(CCN(CC)Cc5ccccc5Cl)CC(=O)C(C(C)C)=C4C3CCC2C1(C)CCC(C)OC(=O)CC(C)(C)C(=O)O,Pharmaceuticals,0
+CCCC(Nc1nc(Cl)nc(NC(CCC)C2CC(C)(C)N(OC3CC=CCC3)C(C)(C)C2)n1)C1CC(C)(C)N(OC2CC=CCC2)C(C)(C)C1,Transformation and metabolic products,0
+CCCC1=CC(Cl)=CCC1C1COc2ccc(C(=O)NC)cc2N(CCCC(C)[C@@](O)(CCCC(C)C(C)C)N2CCN(CCOCCOC)C(=O)C2)C1,Industry and consumer goods,0
+CCCCC(CC)CC1=C2C(=O)C(c3ccc(Br)s3)c3nsnc3C2=C(c2ccc(Br)s2)[N+]1=O,Industry and consumer goods,0
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)OCC(COC)(COC(=O)CCCCCCC/C=C\C/C=C\CCCCC)NCCSCl,Transformation and metabolic products,0
+CCCCCC(=O)N(CCCCSc1ccc(Cl)c(COC2(c3cnccc3-c3ccccc3OC3CC3)CC2)c1)C(O)(O)C(O)(O)C(O)N1CCCC1=O,Industry and consumer goods,0
+CCCCCC(=O)N(CCCSc1ccc(Cl)c(COC2(c3cnccc3-c3ccccc3OC3CC3)CC2)c1)C(O)(O)C(O)(O)C(O)N1CCCC1=O,Industry and consumer goods,0
+CCCCCCCC/C=C\CCCCCCCC(=O)OCC(CO)OC(=O)CC(C)C(C)(C)C(C)(C)CC(C)CC(=O)Oc1c(Cl)cc(C)cc1Cl,Personal care products,0
+CCCCCCCCC(CCCCCC)C[N+]1=C(C=C2C(=O)C(C=C3N(CCCCCCCC)c4ccc(Cl)cc4C3(C)C)=C2O)C(C)(C)c2ccccc21,Industry and consumer goods,0
+CCCCCCCCC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCCCCCCCC)OC(=O)N(CCCl)CCCl,Pharmaceuticals,1
+CCCCCCCCCCCCCCC(C(=O)NC(C)C)n1c(-c2ccc(F)c(Cl)c2)nc2ccc(N3CCCN(CCC)CC3)cc2c1=O,Transformation and metabolic products,0
+CCCCCCCCCCCCCCCC(=O)Oc1ccc(NC(=O)c2cc(Cl)ccc2OC(=O)CCCCCCCCCCCCCCC)cc1,Personal care products,0
+CCCCCCCCCCCCCCCCCC(=O)OC[C@@H](COP(=O)(Cl)Cl)OC(=O)CCCCCCCCCCCCCCCCC,Pharmaceuticals,0
+CCCCCCCCCCCCCCCCCC(=O)OC[C@H](CCOC(=O)[C@@H](NC(=O)OCc1ccccc1)C(C)C)Cn1cnc2c(Cl)nc(N)nc21,Food and other consumption,0
+CCCCCCCCCCCCCCCCCCCCC(=O)OC(C)OC(=O)N1C(N2CCN(C)CC2)=c2ccccc2=Nc2ccc(Cl)cc21,Industry and consumer goods,0
+CCCCCCCCCCCCCCCCCCC[C@H](COP(=O)(O)OC[C@]1(N)CC[C@H](c2ccc3c(N)ncnn23)O1)OCc1cncc(Cl)c1,Transformation and metabolic products,0
+CCCCCCCCCCCCCCCCCCN(C)C(=O)n1cc2cc(C)c(NC(=O)C3CC(OC)=NN3c3ncccc3Cl)c(C(=O)NC(C)C)c2n1,Industry and consumer goods,0
+CCCCCCCCCCCCCCCCCCN(c1ccccc1)C(CCC=CC[C@@H]1[C@@H](C=CC[C@H](O)C2(CC)CCC2)[C@H](O)C[C@H]1Cl)C(=O)OCC=O,Transformation and metabolic products,0
+CCCCCCCCCCCCCCCCOC(=O)OC[C@H]1O[C@H](Br)[C@](C)(F)[C@@H]1OC(=O)OCCCCCCCCCCCCCCCC,Industry and consumer goods,0
+CCCCCCCCCCCCCCCCOC(=O)c1ccc(Cl)c(NC(=O)C(Oc2ccc(OCCCCCCCCCCCC)cc2)C(C)=O)c1,Food and other consumption,0
+CCCCCCCCCCCCCCCCOc1c2cccc(Cl)c2c(OCCCCCCCCCCCCCCCC)c2cccc(Cl)c12,Transformation and metabolic products,0
+CCCCCCCCCCCCCCCOc1c2cccc(Cl)c2c(OCCCCCCCCCCCCCCC)c2cccc(Cl)c12,Transformation and metabolic products,0
+CCCCCCCCCCCCCCCc1ccc(N(C)C(=O)COC(=O)CCC/C=C\C[C@@H]2[C@@H](/C=C/CCC3(CC)CCC3)[C@H](O)C[C@H]2Cl)cc1,Transformation and metabolic products,0
+CCCCCCCCCCCCCCN(CC)C(=O)OC(C)N1C(=O)CCc2ccc(OCCCCN3CCN(c4cccc(Cl)c4Cl)CC3)cc21,Pharmaceuticals,0
+CCCCCCCCCCCCOC(=O)Nc1ccc(NC(=O)OCCCCCCCCCCCC)c(-c2nc3c(Cl)c(C(C)(C)C)[nH]n3n2)c1,Industry and consumer goods,0
+CCCCCCCCCCCCOCC(CN(CCCl)CCCCCC(=O)OCC(CCCCCC)CCCCCCCC)OC(C)=O,Personal care products,0
+CCCCCCCCCCCCc1ccsc1-c1cc(CCCCCCCCCCCC)c(-c2nc(CCCCCCCCCCCC)c(Cl)s2)s1,Industry and consumer goods,0
+CCCCCCCCCCOc1ccc(C2(c3ccc(OCCCCCCCCCC)cc3)CCCCC23CC2(CCCCC2)C3(Cl)Cl)cc1,Industry and consumer goods,0
+CCCCCCCCCOC(CCCCC/C=C\CCCc1cccc([P+](Cl)(c2ccccc2C)c2ccccc2C)c1C)OCCCCCCCCC,Industry and consumer goods,0
+CCCCCCCOc1cc2c(OCCCCCCC)cc3c(OCCCCCCC)cc4c(OCCCCCCC)cc5c(Cl)cc1c1c5c4c3c21,Industry and consumer goods,0
+CCCCCN1CC(Cl)CNC1=[N+]1CCC(CCCOc2ccc(CC(=O)N3CCCN(C(=O)CCCCS(=O)O)CCC3)c(F)c2)CC1,Pharmaceuticals,0
+CCCCN1c2nc(Cl)nc(n2)N(CCCC)C2CC(C)(C)N(OC3CCCCC3)C3(C2)CC2(CC1CC(C)(C)N2OC1CCCCC1)C3,Industry and consumer goods,0
+CCCCOc1cc2c(cc1C)N(CCCC)/C(=C\C=C1/CCCC(/C=C/C3=[N+](CCCC)c4cc(CC)c(OCCCC)cc4C3(C)C)=C1Cl)C2(C)C,Industry and consumer goods,0
+CCCCOc1ccc2c(c1)C(C)(C)C(/C=C/C1=C(Cl)/C(=C/C=C3\N(CCCC)c4cc(CC)c(OCCCC)cc4C3(C)C)CCC1)=[N+]2CCCC,Industry and consumer goods,0
+CCCCP(Cl)(CCCC)(CCCC)Cc1ccc(NC(=O)C(Cc2ccc3ccccc3c2)NC(=NC2CCCCC2)NC2CCCCC2)cc1,Industry and consumer goods,0
+CCCC[N+]1=C(/C=C/C2=C(Cl)/C(=C/C=C3/N(CCOCCOCCNC(=O)c4ccc(F)cc4)c4ccccc4C3(C)C)CCC2)C(C)(C)c2ccccc21,Industry and consumer goods,0
+CCCC[P+](CCCC)(CCCC)c1ccc(-c2nnc(-c3ccc([P+](CCCC)(CCCC)CCCC)cc3CCl)n2-c2ccccc2)c(CCl)c1,Industry and consumer goods,0
+CCCN1C[C@H](C)C[C@@](C)(OC)[C@H](O[C@H]2C[C@@H](N(C)C)C[C@@H](C)O2)[C@@H](C)C(=O)C(C)(C)C(=O)O[C@@H](C)[C@@H]1CN1CCN(C(=O)c2ccc(Cl)cc2)CC1,Industry and consumer goods,0
+CCCc1cc(Cl)ccc1C1COc2ccc(C(=O)NO)cc2N(CC2CCC2C(/C=C/CC(C)C(C)C)(CN2CCCN(C=O)CCNCC2)OC)C1,Transformation and metabolic products,0
+CCCc1cc(Cl)ccc1C1COc2ccc3cc2N(C1)CC1CCC1C(O)(CN1CCCN(CCC=O)CCNCC1)CCCC(C)C(C)S(=O)NC3=O,Pharmaceuticals,0
+CCN(CCCCCCCCCCCCCCCc1ccccc1)C(=O)COC(=O)CCC/C=C\C[C@@H]1[C@@H](/C=C/C[C@H](O)C2(CC)CCC2)[C@H](O)C[C@H]1Cl,Transformation and metabolic products,0
+CCOC(CC)(OCC)N(CCCC(C)c1ccc(Cl)c(CNC2(c3cnccc3-c3ccccc3OC3CC3)CC2)c1)C(=O)[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CO,Pharmaceuticals,0
+CCOC1CCC(C2NN([C@H]3C[C@H]4C(=O)N[C@@]5(C(=O)O)C[C@H]5CCCCCCC[C@@H](NC(=O)OC(C)(C)C)C(=O)N4C3)NC2C2CCCC(Cl)C2)CC1,Pharmaceuticals,0
+CC[C@@H]1/C=C(\C)C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/[C@@H]3CCC(Cl)[C@H](OC)C3)C[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC,Pharmaceuticals,0
+CC[C@@H]1/C=C/C[C@H](C)C[C@H](OC)[C@H]2O[C@@](O)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@H](/C(C)=C/[C@@H]3CC[C@H](Cl)[C@H](OC)C3)[C@H](C)[C@@H](O)CC1=O)[C@H](C)C[C@@H]2OC,Pharmaceuticals,0
+CC[C@H](C)C(C(CC(=O)NCCCC[C@H](OC)[C@@H](C)C(=O)N[C@@H](Cc1cccc(Cl)c1)C(=O)O)OC)N(C)C(=O)[C@@H](NC(=O)[C@@H](NC)C(C)C)C(C)C,Pharmaceuticals,0
+CC[C@H](C)[C@@H]([C@@H](CC(=O)N1CCC[C@H]1[C@H](OC)[C@@H](C)C(=O)CCCc1ccccc1Cl)OC)N(C)C(=O)[C@@H](CC(=O)[C@H](C(C)C)N(C)C)[C@H](C)N=[N+]=[N-],Pharmaceuticals,0
+CC[N+](CC)(CCO)CCN(CCNc1ccnc2cc(Cl)ccc12)C(=O)O[C@H]1CC[C@@]2(C)C(=CC[C@H]3[C@@H]4CC[C@H]([C@H](C)CCCC(C)C)[C@@]4(C)CC[C@@H]32)C1,Transformation and metabolic products,0
+CC[Si](CC)(CC)O[C@H]1[C@@H](C)/C=C/C/C(C)=C\C[C@@H](/C(C)=C/c2csc(C)n2)OC(=O)C[C@H](O[Si](CC)(CC)CC)C(C)(C)C(=O)[C@@H]1CCCCCl,Pharmaceuticals,0
+CCc1c(Br)c(Br)c(CC)c2c1SCc1cc(CBr)c(CBr)cc1CS2,Transformation and metabolic products,0
+CN/C(=C\C(=O)NCc1ccc(Cl)cc1)C[C@]12CCC(C(C)C)=C1[C@H]1CC[C@@H]3[C@@]4(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C(C)(C)[C@@H]4CC[C@@]3(C)[C@]1(C)CC2,Pharmaceuticals,0
+COC(=O)N[C@@H](C(=O)N1CCC[C@H]1c1ncc(-c2ccc(-c3ccc(-c4cnc([C@@H]5CCCN5C(=O)C5(c6ccc(Cl)cc6)CC5)[nH]4)cc3)cc2)[nH]1)c1ccccc1,Pharmaceuticals,0
+COCCCC1CCCN(C(F)C(COC(=O)Nc2ccc(Cl)cc2)(C(F)N2CCCC(CCCOC)C2)C(F)N2CCCC(CCCOC)C2)C1,Transformation and metabolic products,0
+COCCCc1ncc2c(Cl)cc(CC(CC(NC(=O)O)C(O)CC(C(=O)N(C)CCCCCCC34COCC3C4)C(C)C)C(C)C)cn12,Pharmaceuticals,0
+COc1cc(/C=C(/C#N)C(=O)Nc2ccc(Cl)c(Cl)c2)c(Br)c(Br)c1OCc1ccc(Cl)c(Cl)c1,Transformation and metabolic products,0
+COc1cc2cc(c1Cl)N(C)C(=O)C[C@H](OC(=O)[C@H](C)N(C)C(=O)CCSSCCC(N)=O)[C@]1(C)OC1[C@H](C)CCC(O)[C@H](OC)/C=C/C=C(\C)C2,Industry and consumer goods,0
+COc1ccc(CCCCCCCCCCCCCCCCC(=O)Oc2cc(CCCC(C)C)cc(OC)c2CCCCCCCCC(C)C)cc1Cl,Industry and consumer goods,0
+COc1ccc(OCCN(C(=O)C2=C(c3ccc(OCCOc4cc(C)c(C)cc4Cl)cc3)C[C@@H]3CN(C(=O)C[C@@H](CC(=O)O)OC=O)C[C@H]2N3)C2CC2)cc1,Transformation and metabolic products,0
+COc1nc(-c2c(C)c(Cl)cc3[nH]ncc23)c(F)c2nc(OC[C@]34CCC[C@H]3N(C3C[C@@H]5CS(=O)(=O)C[C@@H]5C3)CCC4)nc(N3CCOC[C@@](C)(O)C3)c12,Pharmaceuticals,0
+C[C@@H]1N=C(N2CCN(C(=O)[C@@H](CCCCN3CCCCC3)NC3CCC(CN)CC3)[C@H](C(=O)NCc3ccc4[nH]cc(Cl)c4c3)C2)O[C@H]1c1ccccc1,Pharmaceuticals,0
+C[C@]12CCC(O)CC1=CC[C@@H]1[C@H]2CC[C@@]2(C)[C@H]1CCC2(NCc1ccc(Cl)cc1)C1CC(O)CC2=CC[C@@H]3[C@@H](CC[C@]4(C)C(NCc5ccco5)CC[C@@H]34)[C@]21C,Pharmaceuticals,0
+Cc1c(CCc2cc(CCC3CN=CC(C)C3)c(CC(=O)NCCP)cc2Cl)cccc1-c1cccc(OCc2cn(CCCN3CCN(C)CC3)nn2)c1C,Transformation and metabolic products,0
+Cc1cc(N(c2cccc(Cl)c2)c2ccc(C(C)(C)C)cc2C)cc(N(c2ccc3c(c2)C(C)(C)CCC3(C)C)c2ccc(C(C)(C)C)cc2C)c1,Transformation and metabolic products,0
+Cc1ccc2c(c1)C(C)(C)C(/C=C/C1=C(Cl)/C(=C/C=C3/N(CCC[N+](C)(C)C)c4ccc(S(=O)(=O)O)cc4C3(C)C)CCC1)N2CCC[N+](C)(C)C,Industry and consumer goods,0
+ClC1(Cl)C2C(C(Cl)(Cl)C(Cl)(Cl)C1(Cl)Cl)C(Cl)(Cl)C(Cl)(Cl)C(Cl)(Cl)C2(Cl)Cl,Industry and consumer goods,0
+N[C@@H](C(=O)N1CCC(OC2CCN(CCC3(c4ccc(Cl)cc4)C4CC3N4C(=O)C3([NH3+])CCN(c4ncnc5[nH]ccc45)CC3)CC2)CC1)C1CCCCC1,Pharmaceuticals,0
+Nc1cc(Br)cc(OC(F)=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)c1,Industry and consumer goods,0
+O=C(C(CBr)c1csc(C(F)(F)F)n1)C(CBr)c1csc(C(F)(F)F)n1,Transformation and metabolic products,0
+O=C(Nc1ccc(Cl)cc1)c1c(N=Cc2cc(Br)cc(I)c2O)sc2c1CCCC2,Industry and consumer goods,0
+O=C(Nc1ccc(I)cc1-c1nc2ccccc2s1)c1cc(Br)ccc1Cl,Food and other consumption,0
+O=C(Oc1c(F)c(F)c(S(=O)(=O)O)c(F)c1F)c1c(Br)c(Br)c(Br)c(Br)c1Br,Industry and consumer goods,0
+O=C(c1ccc(Cl)cc1)N(Cc1ccccc1Cl)N1C(=O)[C@@H]2C[C@H](Br)[C@@H](Br)C[C@H]2C1=O,Industry and consumer goods,0
+O=C1/C(=C/c2ccc([N+](=O)[O-])cc2)S/C(=N/N=C\c2cc(Br)cc(Br)c2O)N1Cc1ccco1,Industry and consumer goods,0
+OCCC(O)(CCO)NC(Cl)CCCCCCCCCCCCCCCCCCCCCCC(Cl)NC(O)(Cc1ccccc1)CC(O)CO,Pharmaceuticals,0
+S=P(OCl)(OCCCC(Br)(Br)Br)OCCCC(Br)(Br)Br,Industry and consumer goods,0
+C#CCN(Cc1ccc2nc(N)[nH]c(=O)c2c1)c1ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc1Cl,Pharmaceuticals,0
+C#CCN1C(=O)S/C(=C/c2cc(Cl)c(OCc3ccc(C(=O)[O-])cc3)c(OC)c2)C1=O,Industry and consumer goods,0
+C#C[C@](C)(CC)NC(=O)c1cc2nc(-c3ccc(Cl)cc3)cc(C(F)(F)F)n2n1,Industry and consumer goods,0
+C#Cc1cc(Cl)cc2c1CC(Nc1ncc3c(n1)CCN(CC(F)(F)F)C3=O)C2,Pharmaceuticals,0
+C=C(C)C1CNC2C(N1)C(=O)C(N1CCN(C(=O)C3NCNC(C)C3O)CC1)C(CC)N2CC(=O)NC1CCC(C(F)(F)F)CC1Cl,Transformation and metabolic products,0
+C=C/C(Cl)=C\C(=C)CNCCC12CCC3C(CCC4C3(C)CCC3C(C)C(OC(=O)CC(C)(C)C(=O)O)CCC34C)C1=C(C(C)C)C(=O)C2,Pharmaceuticals,1
+C=CCN1C(=O)S/C(=C/c2cc(I)c(OCc3ccc(Cl)cc3Cl)c(OC)c2)C1=O,Transformation and metabolic products,0
+C=CCOC(=O)C(Cl)N1C(=O)C(C(C)OC(=O)OCC(Cl)(Cl)Cl)C1SC(=S)SCC,Transformation and metabolic products,0
+C=CCOc1c(I)cc(/C=C2\SC(=O)N(Cc3c(Cl)cccc3Cl)C2=O)cc1OC,Transformation and metabolic products,0
+C=C[C@]1(NC(=O)C(Cl)(Cl)Cl)C[C@H](Br)[C@@H](Br)C[C@@H]1[C@H]1COC(C)(C)O1,Industry and consumer goods,0
+C=S(C)(=O)NCCCc1ccc(N2C[C@@H]3CN(CC4=C(C(=O)OCC)[C@H](c5ccc(F)cc5Br)N=C(c5nccs5)N4)CCN3C2=O)cc1,Pharmaceuticals,0
+CC(=O)NCCN=C1Cc2c(/C(Cc3ccc(F)c(Cl)c3)=N/O)cc(F)c(F)c2N1,Transformation and metabolic products,0
+CC(=O)OC(CN(C)Cc1ccc(Cl)cc1)C12CCC3C(CCC4C3(C)CCC3C(C)C(OC(=O)CC(C)(C)C(=O)O)CCC34C)C1=C(C(C)C)C(=O)C2,Pharmaceuticals,0
+CC(=O)OCC(C)CSc1cc(C(=O)Nc2cc(F)c(F)c(F)c2)ccc1Cl,Industry and consumer goods,1
+CC(=O)OCC1=C(C(=O)O)N2C(=O)C(NC(=O)C(=C(Cl)Cl)c3ccc(C)cc3)[C@H]2SC1,Pharmaceuticals,0
+CC(=O)O[C@H]1C[C@@]2(C)[C@H](C[C@@H](O)[C@@H]3[C@@]4(C)CC[C@@H](O)[C@@H](C)[C@H]4CC[C@@]32C)C1=C(CCC(C=CCCCCl)=C(C)C)C(=O)OCOC(=O)C(C)(C)C,Pharmaceuticals,0
+CC(=O)c1ncc(C)c(-n2c(C)cc(OC(C)c3ncc(F)cc3F)c(Br)c2=O)c1F,Pharmaceuticals,0
+CC(C(N)=S)(c1ccc(Cl)c(C(F)(F)F)c1)c1ccc(-n2ncc(=O)[nH]c2=O)cc1Cl,Pharmaceuticals,0
+CC(C)(C)CC(=O)N[C@H]1CCCCC/C=C\[C@H]2C[C@@]2(C(=O)NS(=O)(=O)C2CC2)NC(=O)[C@@H]2C[C@@H](OC(=O)N3Cc4ccc(Br)cc4C3)CN2C1=O,Pharmaceuticals,0
+CC(C)(C)OC(=O)NS(=O)(=O)c1ccc(C(=O)Nc2ccc(Cl)c(C3C=CC=CN3)c2)c(Cl)c1,Pharmaceuticals,0
+CC(C)(C)OC(=O)n1cc(C=C(Br)Br)c2c(OS(=O)(=O)C(F)(F)F)cccc21,Industry and consumer goods,0
+CC(C)C1=C2C3CCC4C(C)(CCC5C(C)(C)C(OC(=O)CC(C)(C)C(=O)O)CCC54C)C3CCC2(C(O)CNCc2ccc(Cl)cc2)CC1,Pharmaceuticals,1
+CC(C)C1=C2C3CCC4C5(C)CC=C(c6ccc(C(=O)O)cc6)CC5CCC4(C)C3CCC2(NC(=O)CN(CCN(C)C)C(=O)c2ccc(Cl)cc2)CC1=O,Industry and consumer goods,0
+CC(C)C1=C2C3CCC4C5(C)CCC(OC(=O)CC(C)(C)C(=O)O)C(C)(C)C5CCC4(C)C3(C)CCC2(C(O)CCCc2ccccc2Cl)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2C3CC[C@H]4C(C)(CCC5C(C)C(OC(=O)CC(C)(C)C(=O)O)CCC54C)C3CCC2(C(O)CNCc2ccc(Cl)cc2)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2(CCN(C)Cc2ccc(Cl)cc2)CC1=O,Pharmaceuticals,1
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2(c2nnc(-c3ccc(Cl)cn3)n2C)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C6(C)C[C@]65CC[C@@]4(C)[C@]3(C)CC[C@@]2(CCN(C)Cc2ccc(Cl)cc2)CC1=O,Pharmaceuticals,0
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)[C@H]6C[C@@H](C(=O)O)C6(C)C)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2(CCNCc2ccc(Cl)cc2)CC1O,Pharmaceuticals,1
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)[C@H]6C[C@@H](C(=O)O)C6(C)C)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2([C@@H](O)CNC(=O)c2cccc(Cl)c2)CC1=O,Pharmaceuticals,1
+CC(C)CC(C)(CC(C)(C(=O)OCC[N+](C)(C)C)C(C)(C)Br)C(C)(C)C(C)(CC(C)(C)C)C(=O)OCCOP(=O)(O)OCC[N+](C)(C)C,Pharmaceuticals,1
+CC(C)C[C@@H](CN(C)C)N(Cc1cccc(CN2OC[C@@H]([C@H](C)O)[C@H]2C(=O)N[C@H]2C[C@H]3C[C@@H]([C@@H]2C)C3(C)C)c1)Cc1c(F)cccc1Cl,Pharmaceuticals,1
+CC(N)=NCC[C@@H]1CCC[C@@H](c2ccc(-n3cc4cc(-c5cc(CCC[C@@H](N)C6CC6)cc(Cl)c5F)[nH]c4nc3=O)cc2)N1CCCF,Pharmaceuticals,0
+CC(O)(C(=O)Nc1ccc(S(=O)(=O)Nc2ccc(Cl)c(Cl)c2)cc1Cl)C(F)(F)F,Pharmaceuticals,1
+CC(OC(=O)OCC1CCCO1)OC(=O)c1cc(-c2nn(C)c(OC(F)F)c2Br)c(F)cc1Cl,Pesticides,0
+CC/C=C(Cl)/C(N)=N/C(N)=C(\C)C(=O)NC1CCC[N+](CCCc2ccc(OCC(=O)OC)cc2)(CCCc2ccc(OCC(=O)OC)cc2)C1,Transformation and metabolic products,0
+CC1=NN(c2c(F)c(F)c(F)c(F)c2F)C(=O)/C1=C\c1cc(Cl)ccc1OCC(F)(F)F,Industry and consumer goods,0
+CC1=NN(c2ccc(S(=O)(=O)O)cc2Cl)C(=O)/C1=c1/s/c(=C2\Sc3ccccc3N2C)c(=O)n1C,Industry and consumer goods,0
+CC1=NNC(c2c(-c3ccc(C4CCNCC4)cc3)ccc(Br)c2S(N)(=O)=O)=NCC1,Industry and consumer goods,0
+CC1Cc2nc(OC[C@@H]3CCCN3C)nc(N3CC4CCC(C3)C(C)C(C(=O)OC(C)(C)C)C4)c2CCC1Cc1cccc2cccc(Cl)c12,Industry and consumer goods,0
+CCCC(=O)N(CCNC(C)CC(CCCCNCl)NCC)Cc1cn(CCOCCOC2OC(C)(C)OC3C2OC2OC(C)(C)OC23)nn1,Transformation and metabolic products,1
+CCCC(C)(C)OCC[C@@](C)(CC)NC(N)=NC1CCN(c2nc3cc(C4CCCCN4C(=O)c4cc(Cl)ccc4NS(C)(=O)=O)nn3cc2C)C1,Pharmaceuticals,0
+CCCC(CO)CN1CCCC2(COc3nc(/C(F)=C/c4c(Cl)c(C)cc5[nH]ncc45)c(C(=NC)OC)c(N(CC)CCOCC)n3)CCCC12,Industry and consumer goods,1
+CCCC(Nc1ccc(C(c2ccc(N(C)c3c(C)cc(C)cc3C)cc2)c2ccc(N(C)c3c(C)cc(C)cc3C)cc2)c2ccccc12)C(C)Cl,Industry and consumer goods,0
+CCCCC(=O)NCCOCCOCCOCCN=CC(COCCOc1ccc2c(c1)CCc1ccc(Cl)cc1N2CCCCN(C)C/C=C/C#N)=NN,Industry and consumer goods,0
+CCCCCCCCC(CCCCCCCC)OC(=O)CCCCCCCN(CCCCCCCC=O)CCCNSCc1ccc(Cl)nc1,Industry and consumer goods,1
+CCCCCCCCC1(CCCCCCCC)c2ccccc2-c2ccc(-c3ccc4c(c3)C(C)(C)c3cc(-c5ccc(Cl)cc5C)ccc3-4)cc21,Industry and consumer goods,0
+CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCCCCBr,Industry and consumer goods,0
+CCCCCCCCCCCCCCCCCC(=O)OCOC(=O)N(C(=O)[C@H](C)C1CCC(c2ccnc3ccc(F)cc23)CC1)c1ccc(Cl)cc1,Transformation and metabolic products,0
+CCCCCCCCCCCCCCCCCCCCCC(=O)OCc1cc([N+](=O)[O-])cc2c1OC1(C=C2)N(C)c2c(Cl)cc(Cl)cc2C1(C)C,Industry and consumer goods,0
+CCCCOC[C@H]1O[C@]2(CC(O)Oc3cc(Cl)c(Cc4ccc(CC)cc4)cc32)[C@H](OCCCC)[C@@H](OCCCC)[C@@H]1OCCCC,Industry and consumer goods,1
+CCCCc1nc(Cl)c(COC(=O)c2cccc(CO[N+](=O)[O-])c2)n1Cc1ccc(-c2ccccc2-c2nnn(C(=O)c3cccc(CO[N+](=O)[O-])c3)n2)cc1,Food and other consumption,0
+CCCCn1cc(-c2ccc(Cl)cc2Cl)nc1[C@H](Cc1ccc(Oc2ccc(C(=O)O)cc2)cc1)NC(=O)CCCC(=O)NCc1ccccc1,Transformation and metabolic products,1
+CCCN1C(=O)/C(=C\c2cc(Br)c(OCc3cccc4ccccc34)c(Br)c2)SC1=S,Industry and consumer goods,0
+CCCc1cc(Cl)ccc1C1COc2ccc(C(=O)NS(=O)C(C)C(C)CCC)cc2N(CC2CCC2CCN2CCN3CCN(C)CC3C2)C1,Pharmaceuticals,1
+CCCc1cc(Cl)ccc1C1COc2ccc(C=O)cc2N(CC2CCC2C(/C=C/CC(C)C(C)S(=O)NC)(CN2CC(CO)(CO)C2)OC)C1,Industry and consumer goods,0
+CCCc1cc(Cl)ccc1C1COc2ccc(C=O)cc2N(CC2CCC2C(/C=C/CC(C)C(C)S(=O)NC)(CN2CCCN(C)CCNCC2)OC)C1,Pharmaceuticals,0
+CCCc1cc(Cl)ccc1C1COc2ccc(cc2)C(=O)NS(=O)C(C)C(C)C/C=C/C(CN2CCN(C(C)(C)C)CC2)C2CCC2CN(C)C1,Pharmaceuticals,1
+CCCc1cc(Cl)ccc1C1COc2ccc3cc2N(C1)CC1CCC1C(COC[C@](C)(CO)N(C)C)CCCC(C)C(C)S(=O)NC3=O,Pharmaceuticals,0
+CCN(C(=O)O)c1cc(F)cc2c1[nH]c1ncc(Cl)c(-n3cc(CO)c(C(F)(F)F)n3)c12,Industry and consumer goods,0
+CCN(CCC12CCC3C(CCC4C5(C)CCC(OC(=O)CC(C)(C)C(=O)O)CC5CCC34C)C1=C(C(C)C)C(=O)C2)Cc1cccc(Cl)c1,Industry and consumer goods,1
+CCN(O)C(=O)Cn1c(=O)c2ccccc2n(CC(=O)Nc2cc(Cl)c(OC)cc2OC)c1=O,Industry and consumer goods,0
+CCN1CCN(C(=O)c2cc(N(CCBr)CS(=O)(=O)O)c(S(C)(=O)=O)cc2[N+](=O)[O-])CC1,Pharmaceuticals,0
+CCNC(=O)C(=O)N/N=C\c1cc(Br)c(OCc2c(F)cccc2Cl)c(OCC)c1,Transformation and metabolic products,0
+CCNC(=O)Oc1cc(F)cc2c1[nH]c1ncc(Cl)c(-n3cc(CO)c(C(F)(F)F)n3)c12,Transformation and metabolic products,0
+CCNC(=O)c1nn(-c2ccccc2Cl)c(-c2ccc(Cl)cc2)c1CCOS(C)(=O)=O,Pharmaceuticals,0
+CCOC(=O)/C=C/c1cc(C(=O)c2ccc(Cl)cc2)ccc1OC(C)(C)C(=O)O,Pharmaceuticals,0
+CCOC(=O)C(C)N1C(=O)CSC1=Nc1cc(-n2c(=O)cc(C(F)(F)F)n(C)c2=O)c(F)cc1Cl,Industry and consumer goods,0
+CCOC(=O)C(C)Oc1ccccc1Oc1ccc(C(F)(F)F)c(C(=O)O)c1Cl,Transformation and metabolic products,0
+CCOC(=O)C[C@@H]1NC(=O)[C@@H](n2cc(CCN3CC(F)C3)c(C(F)(F)F)cc2=O)c2cc(cc(Cl)c2F)COc2cccc(C)c2-c2cc(C)c(F)c1c2,Industry and consumer goods,1
+CCOC(=O)c1c(CCCOc2cc(SCc3ccc(OC)cc3)cc3ccc(Cl)cc23)c2ccc(Cl)c(-c3c(CO)nn4c3COCC4)c2n1C,Transformation and metabolic products,0
+CCOc1c(Br)cc(C2C(C#N)=C(N)Oc3c2c(=O)n(C)c2ccccc32)cc1OC,Pharmaceuticals,0
+CCOc1cc(/C=C(\C#N)C(=O)Nc2cccc3ccccc23)cc(Br)c1OCc1ccc([N+](=O)[O-])cc1,Industry and consumer goods,0
+CCOc1cc(/C=C2/SC(=O)N(CCCOC)C2=O)cc(I)c1OCc1ccc(Cl)c(Cl)c1,Industry and consumer goods,0
+CCOc1cc(/C=C2/SC(=O)N(CCOC)C2=O)cc(I)c1OCc1ccc(Cl)c(Cl)c1,Industry and consumer goods,0
+CCOc1cc(/C=C2/SC(=S)N(c3cccc(Br)c3)C2=O)ccc1Oc1ccc(C(F)(F)F)cc1[N+](=O)[O-],Industry and consumer goods,1
+CCOc1cc(/C=C2\N=C(c3ccco3)OC2=O)cc(Br)c1OCc1ccccc1I,Industry and consumer goods,0
+CCOc1cc(C=NNC(=O)CSc2nnc(N)s2)cc(Br)c1OCc1ccc(Cl)cc1Cl,Transformation and metabolic products,0
+CCOc1ccc(N=C2NC(=O)/C(=C\c3ccc(OCc4cccc(C(=O)O)c4)c(Cl)c3)S2)cc1,Transformation and metabolic products,0
+CCSc1n[n+]2c(c(=O)[nH]1)-c1ccccc1N(C(C)=O)C2c1cc2c(cc1Br)OCO2,Industry and consumer goods,0
+CC[C@H](C)[C@H](NC(=O)[C@H](O)[C@H](N)CCCCCCCCl)C(=O)N(C)[C@@H](CC(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)O,Industry and consumer goods,1
+CCc1c(N2CCN(C(=O)c3ncnc(C)c3OCc3ccccc3)CC2)c(=O)n2nc(C#CC3CC3)nc2n1CC(=O)Nc1ccc(C(F)(F)F)cc1Cl,Pharmaceuticals,0
+CCc1cnc(-c2cnc(N(C(=O)C3CCNCC3)S(=O)(=O)c3ccc(Cl)s3)c(NC(C)=O)c2)o1,Pharmaceuticals,0
+CCn1cc(-n2nc(-c3ccc(Cl)cc3)cc(C(=O)N[C@@H](CO)C(F)(F)F)c2=O)cn1,Transformation and metabolic products,0
+CN(C)C(=O)CNC(=O)c1cnn(-c2ncccc2Cl)c1C(F)(F)C(F)(F)F,Transformation and metabolic products,0
+CN(CC1CCN(C(=O)O)CC1)c1cc(Nc2ccc(Br)cc2F)ncn1,Pharmaceuticals,0
+CN(CC1CN(C(=O)/C=C/c2nc(C(C)(F)F)no2)C1)c1nc(OCC23CCCN2CCC3)nc2c(F)c(-c3nc(N)cc4cccc(Cl)c34)ncc12,Pharmaceuticals,0
+CN(CCS(C)(=O)=O)c1c(S(=O)(=O)C(F)(F)F)c(C#N)nn1-c1c(Cl)cc(C(F)(F)F)cc1Cl,Pesticides,1
+CN1CCc2ccc(NC(=O)[C@@H](CCNC(=O)C(F)(F)F)NC(=O)c3ccc(Cl)s3)cc2CC1,Industry and consumer goods,0
+CNC(=O)c1cc(I)cc(C)c1NC(=O)C1CC(Br)=NN1c1ncccc1Cl,Industry and consumer goods,0
+CNC(=O)c1ccccc1Nc1nc(Nc2ccc(N3CCN(CCCCCCNC(=O)CC4CCCCC4)CC3)cc2OC)ncc1Cl,Pharmaceuticals,0
+CNS(=O)(=O)c1cc(OCCCC(F)(F)F)c2sc(C(F)(F)P(=O)(O)O)c(Br)c2c1,Transformation and metabolic products,0
+CNS(=O)(=O)c1nc(C(=O)NCc2ccc(Br)c(Oc3cc(Cl)cc(C#N)c3)c2F)c(Cl)[nH]1,Pharmaceuticals,0
+CNc1ccc2c(=O)n(-c3c(F)cc(C(=O)NS(=O)(=O)c4ccc(Cl)s4)cc3Cl)c(=O)[nH]c2c1,Pharmaceuticals,0
+COC(=O)C(NC(=O)c1c(-c2ccccc2Cl)noc1C)C1N[C@@H](C(=O)O)C(C)(C)S1,Pharmaceuticals,0
+COC(=O)C1=C(O)C(=O)c2cc3c(c(N)c(C)n3Cc3ccccc3)c(c2Br)O1,Pharmaceuticals,0
+COC(=O)CCCCC=NC/C=C(Br)\C=C/CC(=O)Nc1ccc(F)cc1,Industry and consumer goods,0
+COC(=O)[C@@]1(c2ccc(F)c(Oc3ccccc3)c2)[C@H]([C@H](OS(C)(=O)=O)C(Br)(Br)Br)C1(C)C,Pesticides,0
+COC(=O)c1cc(Cl)cc(-c2cc3c4c(ccc3n2S(=O)(=O)c2ccc(C)cc2)C(N=[N+]=[N-])CO4)c1,Transformation and metabolic products,0
+COC(=O)c1sc(N2C(=O)C(=O)/C(=C(/O)c3ccc(OC)cc3)C2c2ccc(Br)cc2)nc1C,Personal care products,0
+COC(CCCC(C)[C@@H](C)C=O)(CN1CCN2CCC(F)(F)C[C@@H]2C1)C1CC[C@H]1CN1CCCCC2C=C(Cl)C=CC2COc2ccc(C(C)=O)cc21,Transformation and metabolic products,0
+COC(c1cc(Br)c2c(c1Cl)C(=O)N(Cc1c(C)cc(C)[nH]c1=O)CC2)C1CN(C(=O)CO)C1,Pharmaceuticals,0
+COC1CCC2C(C1)C(C1CCC(Cl)CC1)=N[C@@H](CC(=O)NCCOCCOCCOCCNC(=O)C1CCC(O)C(O)C1)C1NNC(C)N21,Industry and consumer goods,0
+COCCCN1C(=O)/C(=C/c2cc(Br)c(OCC(=O)Nc3ccc(F)cc3)c(OC)c2)SC1=S,Industry and consumer goods,0
+COCCS(=O)(=O)C(C(=O)NCC(=O)NC1CC1)c1nc2cc(Cl)c(-c3cncnc3)cc2s1,Industry and consumer goods,0
+CON(C)S(=O)(=O)c1cc(C(=O)NCCC(=O)NC2CCCC2)ccc1Cl,Transformation and metabolic products,0
+COc1c(Br)cc(Br)cc1/C=C/C(=O)Nc1ccc(Cl)c(-c2nc3ncccc3o2)c1,Industry and consumer goods,0
+COc1c(C(C)(C)O)cc(Cl)cc1S(=O)(=O)Nc1ccc(F)c(C#Cc2cnc(N)nc2)c1F,Transformation and metabolic products,0
+COc1cc(C2c3[nH]c4ccccc4c3CCN2C(=O)c2cccc(SC(F)F)c2)ccc1Br,Pharmaceuticals,0
+COc1cc(C=NNC(=O)CSc2nnc(N)s2)cc(Br)c1OCc1ccc(Cl)cc1Cl,Transformation and metabolic products,0
+COc1cc(C=Nc2ccc(C)c(Cl)c2)cc(I)c1OS(=O)(=O)c1ccc(Cl)cc1,Transformation and metabolic products,0
+COc1cc(CNc2ccc(Br)cc2C)cc(Br)c1OCc1ccc(Cl)cc1Cl,Industry and consumer goods,0
+COc1cc(Cl)c(Cc2ccc(-c3ccc(F)cc3)s2)cc1[C@@H]1O[C@H](CO)C(=O)[C@H](O)C1O,Pharmaceuticals,0
+COc1cc(N2C(=O)c3cc(Cl)c(Cl)cc3C2=O)c(Cl)cc1C(=O)OCc1ccc(Cl)cc1Cl,Transformation and metabolic products,0
+COc1cc(OC)c(C(=O)[P+](=O)c2c(Br)ccc(C(=O)c3ccccc3)c2Br)c(OC)c1,Industry and consumer goods,0
+COc1cc(OCc2ccnc(Cl)n2)c(Cl)cc1NC(=S)N[C@H]1CCCC[C@@H]1O,Industry and consumer goods,0
+COc1cc2c(cc1Br)C(=O)/C(=C/c1ccc(OC)c(OC)c1)CN2SI,Industry and consumer goods,0
+COc1cc2cc(c1Cl)C(C)C(=O)[C@H](OC(=O)[C@H](C)N(C)C(=O)CS)C[C@]1(C)O[C@H]1[C@H](C)[C@@H]1C[C@@](O)(NC(=O)O1)[C@H](OC)/C=C/C=C(\C)C2,Industry and consumer goods,1
+COc1cc2nc(-c3cccc(Cl)c3-c3ccc(C(=O)NC(C)C)cc3C(=O)O)[nH]c2cc1F,Transformation and metabolic products,0
+COc1ccc(-c2cc3cc(-c4cccc(CC(=O)O)c4)c(=O)[nH]c3cc2Cl)cc1,Industry and consumer goods,0
+COc1ccc(-n2c(-c3c#cc(C#N)c(F)c3)nc(N3CCC(N)CC3)c(Cl)c2=O)cc1F,Pharmaceuticals,0
+COc1ccc(C2(c3ccc(Br)cc3)OC2[Si](C)(C)C)cc1OC1CCCC1,Industry and consumer goods,1
+COc1ccc(CC2(C(=O)O)C=CCO2)cc1CNC(=O)c1sc(-c2ccc(Cl)cc2Cl)nc1C,Transformation and metabolic products,0
+COc1ccc(Cl)cc1NS(=O)(=O)c1cccc(C(=O)NCC(=O)NCC(F)(F)F)c1,Industry and consumer goods,0
+COc1ccc(N2C(=O)C(=O)C(=C(O)c3cccc(NC(=O)C=CC(=O)O)c3)C2c2ccc(Cl)c(Cl)c2)cc1,Industry and consumer goods,0
+COc1ccc(S(=O)(=O)c2[nH]c3ccc(Br)cc3c2C)cc1N1CCN(C(=O)C(Cl)(Cl)Cl)CC1,Industry and consumer goods,0
+COc1ccc2nc(Cn3nc(C(F)(F)F)cc3Cl)cc(=O)n2c1[C@H]1CC[C@@H]1C#N,Transformation and metabolic products,0
+COc1ccccc1NC(=O)CCN(CCO)Cc1cc(Br)ccc1F,Food and other consumption,0
+COc1ccccc1OCCN1C(=O)S/C(=C\c2cc(Br)c(O)c(Br)c2O)C1=O,Pharmaceuticals,0
+COc1ccccc1OCCN1C(=O)S/C(=C\c2cc(OC)c(O)c(Br)c2Br)C1=O,Transformation and metabolic products,0
+COc1nc(Br)c(Cl)nc1N(COCC[Si](C)(C)C)S(=O)(=O)c1cccc(Cl)c1Cl,Pharmaceuticals,0
+COc1ncc2cc1NS(=O)(=O)c1ccc(Cl)c(c1)C(=O)CCc1ccc(s1)-c1ncnc3cc-2sc13,Transformation and metabolic products,0
+CS(=O)(=O)C1(C(=O)Nc2c(Oc3cccc(Cl)c3)ccnc2Cl)CCc2cc3ccsc3cc2O1,Industry and consumer goods,0
+CS(=O)(=O)NCc1cc(OCCCC(F)(F)F)c2sc(C(F)(F)P(=O)(O)O)c(Br)c2c1,Pharmaceuticals,0
+C[C@@H](NS(=O)(=O)c1cccc(C(F)(F)F)c1)[C@@H](Cc1ccc(Br)cc1Br)C(=O)O,Industry and consumer goods,0
+C[C@@H]1[C@@H](NC(=O)[C@@H]2[C@H]([C@H](C)O)[C@H](CO)ON2Cc2cccc(CN(Cc3c(F)cccc3Cl)[C@H](CN(C)C)CC(C)(C)C)c2)C[C@@H](C)C(C)(C)[C@H]1C,Transformation and metabolic products,1
+C[Si](C)(C)CCOCn1c(S(C)(=O)=O)nc2cc(C#Cc3ccccc3)c(Cl)cc21,Transformation and metabolic products,1
+Cc1c(Br)c(/C=C2\C(=O)NC(=O)N(c3ccc(Cl)cc3)C2=O)c(C)n1-c1ccc(Br)cc1,Transformation and metabolic products,0
+Cc1c(F)ccc(F)c1-c1c(C(=O)NC(=CC(N)=O)c2cccc(Cl)c2)c[nH]c1C(=O)c1ccc(CCOCCOCCOCCOCCOCC=O)cc1,Industry and consumer goods,0
+Cc1c(N2CCC(CN)C2)c(F)c(Br)c2cc(OC(=O)C(F)(F)F)c(=O)n(C3CC3)c12,Transformation and metabolic products,0
+Cc1cc(C(=O)NN2CCOCC2)nn1Cc1cc(Cl)cc2cc(-c3ccc(F)cc3Cl)oc12,Industry and consumer goods,1
+Cc1cc(C)nc(NS(=O)(=O)c2ccc(NC(=O)c3cc(S(=O)(=O)N4CCCC4)ccc3Cl)cc2)n1,Transformation and metabolic products,0
+Cc1cc(I)cc(C(=O)Nc2cc(S(=O)(=O)c3ccc(Cl)cc3)ccc2Cl)c1O,Industry and consumer goods,0
+Cc1cc(NC(=O)N/N=C/c2cc(Br)c(OCc3cccc(F)c3)c(Br)c2)ccc1Br,Pharmaceuticals,0
+Cc1cc(Oc2ccccc2OC(F)F)c(C(=O)Nc2ccc(C(=O)O)cc2)cc1Cl,Industry and consumer goods,0
+Cc1ccc(CN2C(=O)C(O)(CC(=O)c3cccc(-n4cccc4)c3)c3cc(Cl)ccc32)cc1,Transformation and metabolic products,0
+Cc1ccc(S(=O)(=O)NN(O)C2CC(=O)CC(c3cc(C)ccc3Cl)C2)cc1,Pharmaceuticals,0
+Cc1cccc(Cl)c1NC(=O)c1cnc(Nc2cc(C(=O)O)cc(C(F)(F)F)c2)s1,Food and other consumption,0
+Cc1nc(C(F)(F)F)ccc1C(=O)Nc1ccc(Cl)c(-c2nc3ccc(C(=O)NO)cc3[nH]2)c1,Industry and consumer goods,0
+Cc1nc(CC2CC2)n(Cc2ccc3oc(-c4ccccc4-c4nn[nH]n4)c(Br)c3c2)c1OC(=O)O,Transformation and metabolic products,0
+Cc1ncsc1-c1ccc([C@H](C)NC(=O)[C@@H]2C[C@@H](O)CN2C(=O)[C@H](C(C)C)n2cc(-c3cc4cc(-c5ccccc5O)nnc4cc3Cl)nn2)cc1,Pharmaceuticals,0
+Cc1nn(CC2CC2(F)F)c(C)c1-c1ccc(-c2cnc(C(=O)Nc3ccc(C(=O)N4CCN(C(=O)C5C[C@@H](O)C[N+]5(C)C)CC4)c(Cl)c3)n2C)c(F)c1F,Pharmaceuticals,0
+Cc1nnc(N2N=C(c3cc(F)ccc3F)SC2(CCCN)c2ccc(Cl)c(Cl)c2)s1,Pharmaceuticals,0
+Cc1nnc2n1-c1ccc(-c3cnn(CC(=O)NCCCCCC#Cc4cccc5c4CN(C4CCC(=O)NC4=O)C5=O)c3)cc1C(Nc1ccc(Cl)cc1)CC2,Pharmaceuticals,0
+Cn1c(-c2cccc(CC(=O)C(=O)Nc3cccc(Cl)c3)c2)c(I)c2cc(C(=O)O)c(O)cc21,Industry and consumer goods,0
+Cn1c(C(CO)c2ccc(Cl)c(Oc3cc(C#N)cc(C(F)F)c3)c2F)n[nH]c1=O,Pharmaceuticals,0
+Cn1cc(-n2nc(-c3ccc(Cl)cc3)cc(C(=O)NCC(O)C(F)(F)F)c2=O)cn1,Transformation and metabolic products,0
+Cn1cnc(S(=O)(=O)Nc2ccc(Cl)cc2C(=O)Nc2ccc(C(F)(F)F)cc2Cl)c1,Pharmaceuticals,0
+Cn1nc(-c2ccccn2)c2c1NC(=O)CSC2c1cc2cnn(-c3ccc(F)cc3)c2cc1Cl,Industry and consumer goods,0
+N#CC1=C(N)N(c2ccc(Br)cc2F)C2=C(C(=O)CCC2)C1c1ccc([N+](=O)[O-])s1,Transformation and metabolic products,1
+N#Cc1cc(/C=C/C(c2cc(Cl)c(Cl)c(Cl)c2)C(F)(F)F)ccc1N1C=C=CCC([N+](=O)[O-])=N1,Transformation and metabolic products,0
+N#Cc1ccsc1NC(=O)CSc1nc2ccc(Cl)cc2c(=O)n1-c1ccc(F)cc1F,Pesticides,1
+NC(S[N+](=O)[O-])(SC(F)(Cl)Br)c1nc(Nc2ccc(F)c(F)c2F)c2[nH]cnc2n1,Transformation and metabolic products,0
+Nc1c(C(F)(F)F)cc(-c2ccc(-c3ccc(OCC(=O)O)c(Cl)c3)s2)n(Cc2ccc(F)cc2F)c1=O,Pesticides,0
+Nc1c(Cl)cc(C[C@@H](CC(=O)N2CCC(N3CCc4ccccc4NC3=O)CC2)C(=O)N2CCN(C3CCCOC3)CC2)cc1C(F)(F)F,Pharmaceuticals,0
+Nc1nc(=O)n([C@@H]2O[C@]3(CCl)C(OP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@]3(O)[C@H]2Cl)cc1F,Industry and consumer goods,0
+O=C(/C=C/c1ccc(OCCOC2CC(COO)C2)cc1)c1ccc(O)c(Cl)c1O,Transformation and metabolic products,0
+O=C(CC1(O)C(=O)N(CCc2ccccc2)c2ccc(Cl)cc21)c1cccc(-n2cccc2)c1,Transformation and metabolic products,0
+O=C(CCCNCCC1CN(C(=O)Cc2ccc(OCCCC3CCN(c4ncc(Cl)cn4)CC3)cc2F)C1)CC(CO)(CO)CO,Pharmaceuticals,0
+O=C(NCCCNC(=O)c1ccc(Br)cc1)C(=O)Nc1cc(Cl)ccc1Oc1cccc(Br)c1,Transformation and metabolic products,0
+O=C(N[C@@H](Cc1c[nH]c2ccc(O)cc12)C(=O)NCC1CC(Cl)=NO1)OCc1ccccc1,Industry and consumer goods,0
+O=C(Nc1c(Br)ncc(F)c1Br)c1sc(-c2ccc(N3CC[C@@H](F)C3)nc2)nc1F,Pharmaceuticals,0
+O=C(O)c1ccccc1-c1c2cc(Br)c(=O)c(Br)c-2oc2c(Br)c([O-])c(Br)cc12,Personal care products,0
+O=C(Oc1c(Br)cc(Br)cc1C=Nn1c(-c2ccc(Br)cc2)nc2ccccc2c1=O)c1ccc(Cl)cc1Cl,Transformation and metabolic products,0
+O=C(Oc1c(I)cc(I)cc1I)C(F)(F)C(F)(Br)C(F)(F)Br,Industry and consumer goods,1
+O=C1C(=O)N(c2nc3ccc(F)cc3s2)C(c2ccc(Cl)cc2)/C1=C(\O)c1cccnc1,Pesticides,0
+O=C1CCC(=O)NC(Cc2ccccc2)CNC(Cc2ccc(Br)cc2)C(=O)NC(Cc2ccco2)C(=O)NC(C(=O)O)Cc2ccc(cc2)N1,Pharmaceuticals,0
+O=P([O-])(N(CCCl)CCCl)[N+](CCCl)(CCCl)CCOS(=O)(=O)c1ccc(Br)cc1,Industry and consumer goods,0
+O=S(=O)(CCCl)c1ccc2c(c1)Oc1oc3c(SOOO)cc4cc(OOO[O-])ccc4c3[n+]1N2,Industry and consumer goods,0
+O=S(=O)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(OC(Br)CCCBr)c(Br)c1,Industry and consumer goods,1
+O=S(=O)(c1cc(Br)c(O)c(Br)c1)c1cc(Br)c(OCC(Br)CBr)c(Br)c1,Industry and consumer goods,1
+O=[N+]([O-])c1ccc(C2Oc3c(Br)cc(Br)cc3C3CC(c4ccc(Cl)cc4)=NN32)cc1,Food and other consumption,0
+OC[C@H]1OC[C@@H](Oc2nc3nc(-c4ccc(N5CCC5)cc4)c(Cl)cc3[nH]2)[C@@H]1O,Transformation and metabolic products,0
+ONC[C@]1(O)CC2=C(c3ccn(C(F)F)n3)[C@H](c3ccc(F)cc3Cl)N=C(c3nccs3)N2C1,Transformation and metabolic products,0
+CC(C)(COC(=O)C(Cl)(Cl)Cl)c1cc(CS(=O)(=O)O)ccc1OC(=O)C(Cl)(Cl)Cl,Food and other consumption,0
+CC(C)C1=C2[C@H]3CC[C@@H]4[C@@]5(C)CC[C@H](OC(=O)CC(C)(C)C(=O)O)C(C)(C)[C@@H]5CC[C@@]4(C)[C@]3(C)CC[C@@]2(c2nnc(C3(c4ccc(Cl)cc4)CC3)o2)CC1=O,Pharmaceuticals,0
+CC(c1ccc(O)c(Cl)c1)(c1ccc(O)c(Cl)c1)C(c1cc(Cl)c(O)c(Cl)c1)c1cc(Cl)c(O)c(Cl)c1,Industry and consumer goods,0
+CC1=C(Cl)C(I)(c2ccccc2)C(I)(c2ccccc2)C(Br)=C1c1ccccc1,Transformation and metabolic products,0
+CCC(CC)N(CCCCCCN(c1nc(N2CCOCC2)nc(C(Cl)(CC)CC)n1)C1CC(C)(C)N(C)C(C)(C)C1)C1CC(C)(C)N(C)C(C)(C)C1,Industry and consumer goods,1
+CCC(O)C1(C(=O)OCCOC(C)O)C(Br)=C(Br)C(Br)=C(Br)C1C(=O)OCCOC(C)O,Industry and consumer goods,0
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)Cl,Transformation and metabolic products,0
+CCCCCCCCCCCCCCCCCCCCN(C)C(=O)CC(CC/C=C\C[C@@H]1[C@@H](/C=C/C[C@H](O)C2(CC)CCC2)[C@H](O)C[C@H]1Cl)C(=O)O,Transformation and metabolic products,0
+CCCCCCCCn1c(S(=O)(=O)C(Br)(Br)Br)nc2cc(COO)c(COO)cc21,Industry and consumer goods,0
+CCOC(=O)C1=CC2(CCC1S(=O)(=O)Nc1ccc(Br)cc1Br)OCCO2,Pharmaceuticals,0
+CCOC(=O)C=CS[C@H]1[C@H](NC(=O)C=NOCc2csc(NC(=O)CCl)n2)C(=O)N1S(=O)(=O)O,Industry and consumer goods,0
+CCOC(=O)COc1c(Cl)cc(/C=N\NC(=O)c2cc3cc(Br)cc(I)c3o2)cc1OC,Transformation and metabolic products,0
+CCS(=O)(=O)CC(=O)NCc1ccc(C2=NOC(c3cc(Br)c(F)c(Br)c3)(C(F)(F)F)C2)cc1Cl,Industry and consumer goods,0
+CN(C(=O)c1cc(NC(=O)C2C(c3cc(Br)cc(Br)c3)C2(Cl)Cl)ccc1Cl)c1ccc(F)cc1,Pesticides,0
+CO/N=C1/CC(=O)OC12C=C(Br)C(=O)C(Oc1c(Br)cc(OC/C(=N\OC)C(=O)O)cc1Br)=C2,Pharmaceuticals,0
+COC(=O)C(C)(O)COc1cc(Cl)c(-c2noc(-c3cn4cc(C(F)(F)F)cc(Cl)c4n3)n2)cc1Cl,Industry and consumer goods,0
+COC(=O)C1=C(C(=O)OC)C2(Cl)C(C3(Cl)C(Cl)=C(Cl)C(Cl)=C3Cl)=C(Cl)C1(Cl)C2(Cl)Cl,Industry and consumer goods,0
+COC(=O)COc1cc(I)c(Cl)c(I)c1OCC(=O)OC,Industry and consumer goods,0
+COCCN1C(=O)S/C(=C/c2cc(I)c(OCc3ccc(Br)cc3)c(OC)c2)C1=O,Industry and consumer goods,0
+COc1cc(/C=C2\C(=O)NC(=O)N(c3ccc(Cl)c(Cl)c3)C2=O)cc(Br)c1OS(=O)(=O)c1ccccc1,Transformation and metabolic products,0
+COc1cc(C(=S)N2CCOCC2)cc(I)c1OC(=O)c1ccc([N+](=O)[O-])cc1Cl,Transformation and metabolic products,0
+COc1ccc(C2Oc3ccc(Br)cc3C3CC(c4ccc(Br)s4)=NN32)c(C(=O)O)c1OC,Transformation and metabolic products,0
+CS(=O)(=O)N(CC(F)(F)F)c1c(C#N)nn(-c2c(Cl)cc(S(F)(F)(F)(F)F)cc2Cl)c1I,Transformation and metabolic products,0
+CSC(CN(C)c1c(S(=O)(=O)C(F)(F)F)c(C#N)nn1-c1c(Cl)cc(C(F)(F)F)cc1Cl)SC,Pesticides,0
+Cc1c(C(=O)O)n2c3ccc(Cl)c(c13)-c1c(nn(C)c1C)[C@@](C)(CCN1CCOCC1)OCc1cc(n(C)n1)CCc1cc(c3ccc(F)cc3c1)OCCC2,Transformation and metabolic products,0
+Cc1cc(C2=N/C(=C\c3cc(Br)c(OC(=O)c4ccccc4)c(Br)c3)C(=O)O2)ccc1I,Industry and consumer goods,0
+Cc1cccc(C(=O)Nc2c(I)cc(C(F)(C(F)(F)F)C(F)(F)F)cc2I)c1Cl,Industry and consumer goods,0
+Clc1ccccc1ON1P(Cl)N(Cl)P(Cl)N=P1(Oc1ccccc1Cl)Oc1ccccc1Cl,Industry and consumer goods,0
+Cn1c(C(F)(F)F)cc(=O)n(-c2cc(N=C3SC(CC(=O)O)C(=O)N3CC(=O)O)c(Cl)cc2Cl)c1=O,Industry and consumer goods,0
+O=C(COc1ccc(Cl)cc1Cl)Nc1ccc2oc(-c3cc(I)ccc3Br)nc2c1,Transformation and metabolic products,0
+O=C(N/N=C/c1ccc(OCc2ccc(Cl)cc2Cl)c(Br)c1)c1cc(Br)ccc1O,Transformation and metabolic products,0
+O=C(O)CCCCCCCCCC/C=C/CCCCCCCCCC/C=C/CCCCCCCCCC/C=C/CCCCCCCCCCCBr,Industry and consumer goods,0
+O=C(O)[C@H]1O[C@@H](On2cnc(S(=O)(=O)n3c(CO)c(Br)c4ccc(F)cc43)n2)[C@H](O)[C@@H](O)[C@@H]1O,Pesticides,0
+O=C(OCC1CO1)C1=C(C(=O)OCC2CO2)C(Br)C(Br)C(Br)C1Br,Transformation and metabolic products,0
+O=C(c1ccccc1Cl)c1cc(Br)ccc1NC(=O)C1CCCN1S(=O)(=O)c1ccc(F)cc1,Industry and consumer goods,0
+O=C1NC(=S)N(c2cccc(Cl)c2Cl)C(=O)/C1=C/c1cc(Br)ccc1OCc1ccc(I)cc1,Industry and consumer goods,0
+O=CN(F)c1ccc(Sc2ccc(N(F)C=O)cc2SC(Cl)Cl)c(SC(Cl)Cl)c1,Transformation and metabolic products,0
+O=S(Br)c1ccc2cc(Br)ccc2c1-c1c(OC(F)(F)F)ccc2cc(Br)ccc12,Industry and consumer goods,0
+O=S(O)C(F)(F)C(F)(F)OC(F)(F)C(F)(F)OC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)Cl,Industry and consumer goods,0
+O=S(O)N(CC(Br)Cc1ccc(OC(F)(F)F)cc1)c1sc2ccccc2c1Br,Industry and consumer goods,0
+O=[N+]([O-])c1cc(/C=C/C(=S)NCc2cc(O)c(O)c(O)c2)c(Br)c(Br)c1O,Industry and consumer goods,0
+O=c1[nH]c2cc(Br)c(S(=O)(=O)Nc3ccc(OC(F)(F)F)c(Cl)c3)c(Cl)c2o1,Pesticides,0
+OC[C@H]1O[C@@H](n2cnc3c(I)c(Cl)c(Cl)c(I)c32)C[C@@H]1O,Pharmaceuticals,0
+C#CC(=CC=C(C)CN=C1CCC2=C(C=N1)C=C(c1cc(C)c(C3=CCC(C)=CC=C3)cc1Cl)C(=O)C1C(CC)C21)C1CCCC(CC)CC1,Pharmaceuticals,0
+C/C(=C\C(=O)NCc1ccc(Cl)cc1)CC12CCC(C(C)C)=C1C1CC[C@@H]3C4(C)CCC(OC(=O)CCC(C)(C)C(=O)O)C(C)(C)C4CCC3(C)[C@]1(C)CC2,Pharmaceuticals,0
+C/C=C1\C(=NC(C)CC)C(Br)=Cc2nc(OCC(C)(CCCC)CCCCCC)nc(N3C4CCC3CN(CCCOC)C4)c21,Transformation and metabolic products,0
+C=C(C1CN(c2c(F)cccc2Cl)C(=O)c2ccc(-n3nc(CO[Si](c4ccccc4)(c4ccccc4)C(C)(C)C)n(CC)c3=O)cc21)C(F)(F)F,Transformation and metabolic products,0
+C=C(NOCC(=O)N=Nc1c(O)n(CN2CCOCC2)c2ccc(Br)cc12)c1cccs1,Transformation and metabolic products,0
+C=CCOC(=O)c1cc2cc(CP(=O)(Cl)N[C@@H](C)C(=O)OCCC)ccc2s1,Industry and consumer goods,0
+C=CCOc1c(Br)cc(/C=C2\SC(=O)N(CC(=O)Nc3cc(C(F)(F)F)ccc3OC)C2=O)cc1Br,Transformation and metabolic products,0
+C=CCOc1ccc(C(=O)N/N=C/c2cc(Br)cc(Br)c2OCc2ccc(C(=O)O)cc2)cc1OCC,Transformation and metabolic products,0
+C=Cc1csc(-c2cc(O[C@H]3C[C@H]4C(=O)N=CCCC/C=C\[C@@H]5C[C@@]5(C(=O)NS(=O)(=O)C5(C)CC5)NC(=O)N4C3)c3ccc(OC)c(Cl)c3n2)n1,Pharmaceuticals,0
+C=S(C)(=O)N(C)c1ncccc1CCc1nc(Nc2cc(C(=O)O)ccc2C)ncc1Cl,Food and other consumption,0
+C=S1NC(=O)c2ccc3c(c2)N(CC(c2ccc(Cl)cc2CCC)CO3)CC2CCC2C(CN2CCN(C3CCC3)CC2)(OC)/C=C/CC(C)C1C,Pharmaceuticals,0
+CC(=O)NC1C(Oc2ccc(Cl)cc2C(=O)O)OC(CO)C(Oc2ccc(F)cc2)C1O,Transformation and metabolic products,0
+CC(=O)OCC(Cc1cc(C(=O)CP(Cl)(c2ccccc2)(c2ccccc2)c2ccccc2)ccc1OCC(=O)Nc1nc2ccccc2s1)OC(C)=O,Industry and consumer goods,0
+CC(=O)O[C@@H]1C(n2nc(C#Cc3ccc(Cl)cc3)nc2C(N)=O)OC(CO)[C@@H]1OC(=O)O,Transformation and metabolic products,0
+CC(=O)O[C@@H]1COC(Oc2cc3c(c4ccccc24)[C@H](CCl)CN3C(=O)c2ccc(C(=O)N3CCc4c3cc(O)c3ccccc43)s2)[C@H](OC(C)=O)[C@H]1O,Pharmaceuticals,0
+CC(=O)O[C@H]1CC[C@@]2(C)C(CC[C@]3(C)[C@@H]2CC=C2[C@@H]4CC(C)(C(=O)NCCN5CCN(c6ccccc6Cl)CC5)CC[C@]4(C)CC[C@]23C)C1(C)C,Industry and consumer goods,0
+CC(=O)c1ccc(CC(=O)C(=O)NCC(C)(C)CNC(=O)c2ccc(Nc3nc(NC4(c5ccc(Cl)cc5)CC4)nc(OCC(F)(F)F)n3)cc2)cc1,Industry and consumer goods,0
+CC(C(=O)Nc1nn(Cc2c(F)cccc2Cl)cc1Cl)n1nc(C(F)F)c(Cl)c1C(F)F,Transformation and metabolic products,0
+CC(C)(C)N(CCCO)C(=O)Oc1c(N)cc(F)cc1NC(=S)Nc1ccc(Cl)cc1Cl,Industry and consumer goods,1
+CC(C)(C)c1ccc(N(c2ccc(C(C)(C)C)cc2)c2cc(C3CCCCC3)cc(N(c3ccc(C(C)(C)C)cc3)c3ccc(C(C)(C)C)cc3)c2Cl)cc1,Transformation and metabolic products,0
+CC(C)(C)c1ccc2c(c1)CCN(c1ccccc1COC(=O)CBr)C2=O,Food and other consumption,0
+CC(C)(OC(=O)c1cc(OC(=O)C(Br)Br)cc(OC(=O)C(Br)Br)c1)C1CC[NH2+]CC1,Industry and consumer goods,0
+CC(C)(Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1)C(=O)Nc1ccc(Cl)c(C(F)(F)F)c1,Personal care products,0
+CC(C)CCCC(C)CCCC(C)CCCC(C)CCOCC(COCc1ccccc1)OCCCCCCCCCCCCCCCBr,Personal care products,0
+CC(CC(=O)O)N(C(=O)N=S(=O)=O)c1ccc(NC(=O)c2cc3c(Cl)c(Cl)ccc3n2C)cc1,Transformation and metabolic products,0
+CC(O)COC(=O)c1c(Br)c(Br)c(Br)c(Br)c1C(=O)OCCOCCOCC(C)OCC(C)O,Industry and consumer goods,0
+CC1CC(C)CC2(C1)N=C(c1ccc(Cl)c(OCCC(C)(C)C)c1)C(=O)N2C(CCC(C)(C)C)c1ccc(C(=O)NCC2=NNN(C)N2)cc1,Industry and consumer goods,0
+CCC(C(=O)Nc1ccc(-c2noc(=O)[nH]2)cc1)n1cc2c(cc1=O)-c1cc(Cl)ccc1CNC2=O,Industry and consumer goods,0
+CCC(N)CC(=O)N(C(=O)C(=O)NS(=O)(=O)C(F)(F)F)C(=O)[C@H](CC1CCCCC1)NC(=O)[C@@H](NC(=O)c1ccc(-c2ccc(Cl)cc2)o1)[C@@H](C)CC,Transformation and metabolic products,0
+CCC12CCC(=O)C=C1c1c(cc(OCC(=O)OCCN(C)C)c(Cl)c1Cl)C2,Pharmaceuticals,0
+CCC1=NN2C(=N)C(=Cc3cc(Cl)c(OCc4ccc([N+](=O)[O-])cc4)c(OC)c3)C(=O)N=C2S1,Industry and consumer goods,0
+CCC1Cc2c(C(F)(F)F)nn(CC(=O)NC(Cc3cc(F)cc(F)c3)c3nc(C#CC(C)(C)O)ccc3-c3ccc(Cl)c4c(N)nn(C)c34)c2C1(F)F,Pharmaceuticals,0
+CCCCC(Oc1ccc2c(c1)oc(=O)n2-c1ccc(C(F)(F)F)cc1Cl)C(=O)OC,Industry and consumer goods,0
+CCCCC/C=C\C/C=C\CCCCCCCC(=O)N[C@@H](CNC(=O)CBr)C(=O)OCCCCCCCCCCC/C=C\CCCCC,Personal care products,0
+CCCCCCC1CN=CC(NC(=O)C(C(N)N)C2NCC(Cl)CCC2C2CCCCC2)C1N1CCC(N2CC(F)(F)C2)CC1,Pharmaceuticals,0
+CCCCCCCCCCCCCCCCC(Br)C(=O)OC(=O)CN(CCCCCCCCCCCCCCCC)CCNCCN,Transformation and metabolic products,0
+CCCCCCCCCCCCCCOC(=O)COCNc1ccc(-c2nc3n(n2)N=C(C(C)(C)C)C3=Nc2cc(Cl)c([O-])c(Cl)c2)cc1,Industry and consumer goods,0
+CCCCCCCCCCCC[N+](C)(C)CC(=O)OC(CCCCC)C(O)C(Br)/C=C/CCCCCCCC(=O)OC,Personal care products,0
+CCCOC(=O)c1cc(NC(=O)CN2C(=O)S/C(=C/c3ccc(-c4ccc(Cl)cc4Cl)o3)C2=O)ccc1Cl,Pharmaceuticals,0
+CCCOc1ccc(Oc2ccc3cc(C(C)NC(C)=O)ccc3n2)cc1Br,Pesticides,0
+CCC[C@H](NC(=O)C(NC(=O)c1cc[n+](O)c(Cl)c1)[C@@H](C)CC)C(=O)NC(CN[C@@H](C)C(=O)NC(C(=O)NCC)C(C)C)CC(C)C,Transformation and metabolic products,0
+CCCc1cc(Cl)ccc1C1COc2ccc3cc2N(C1)CC1CCC1C(CN1CC(N(C)C)C1)CCCC(C)C(C)S(=O)NC3=O,Pharmaceuticals,0
+CCCc1nc2ccc(Br)cc2c(=O)n1N=Cc1c(C)n(Cc2ccc(Br)cc2Br)c2ccccc12,Transformation and metabolic products,0
+CCN(CC(O)CO)S(=O)(=O)c1cc(-c2cc(-c3nn(C)c(=NC4CCCCC4)s3)cc(S(=O)(=O)N(CC)CC(O)CO)c2Cl)ccc1Cl,Transformation and metabolic products,0
+CCN(CC)C(=O)N(C1CCCCCC1)C1CCN(C(=O)[C@@H](Cc2ccc(Cl)cc2)NC2CCC(NC(=O)OC(C)(C)C)CC2)CC1,Industry and consumer goods,0
+CCN1CCN(C(=O)NC(C(=O)N[C@@H]2C(=O)N3[C@@H]2SC(C)(C)[C@@H]3C(=O)OCc2ccccc2)c2cc(OC(C)=O)c(OC(C)=O)cc2Cl)C(=O)C1=O,Pharmaceuticals,0
+CCNC(=O)c1cc2c(-c3cc(C(C)=O)ccc3Oc3ccc(Cl)cc3Cl)cn(C)c(=O)c2s1,Pharmaceuticals,0
+CCOC(=O)C(CCc1nc(CNS(=O)(=O)c2cc3c(cc2Cl)NC(CCc2ccccc2)NS3)co1)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)O,Pharmaceuticals,0
+CCOC(=O)C1=C(C)NC(=S)NC1c1ccc(OC)c(COc2c(Br)cc(Br)cc2Br)c1,Pharmaceuticals,0
+CCOC(=O)C1=C(c2ccccc2)N=c2s/c(=C\c3cc(Br)cc(OC)c3O)c(=O)n2C1c1cccs1,Transformation and metabolic products,0
+CCOC(=O)COc1c(Br)cc(/C=N/Nc2ccc([N+](=O)[O-])cc2)cc1OCC,Industry and consumer goods,0
+CCOC(=O)C[C@H](NC(=O)C(c1cc(Br)ccc1F)n1cc(CCN2CC(F)C2)c(C(F)(F)F)cc1=O)c1cc(-c2c(C)cccc2O)sc1C,Pharmaceuticals,0
+CCOC(=O)O[C@@H]1S[C@@H]2[C@H](NC(=O)COc3ccccc3)C(=O)N2C(C(=O)OCC(Cl)(Cl)Cl)=C1C,Transformation and metabolic products,0
+CCOC(=O)c1c(Br)c(-c2ccc(Cl)cc2)n(C(Cc2ccccc2)C2=COCO2)c1CBr,Transformation and metabolic products,0
+CCOC(=O)c1c(CSc2cccc(O)c2)n(C)c2cc(Br)c(O)c(CN(C)C)c12,Pharmaceuticals,0
+CCOC(=O)c1c(SC)c(C(Br)C(Br)C(=O)OCC)n2ccccc12,Industry and consumer goods,0
+CCOC(=O)c1cc2c(Br)c(Oc3ccc(O)c(C(=O)c4ccc(F)cc4)c3)c(Br)cc2o1,Industry and consumer goods,0
+CC[C@H]([C@@H](NS(=O)(=O)c1ccc(C)cc1)C(Cl)(Cl)Cl)S(=O)(=O)OCc1ccccc1,Industry and consumer goods,0
+CC[C@H]1O[C@@H](OC[C@H]2O[C@@H](Br)[C@H](OC(C)=O)[C@@H](OC(C)=O)[C@H]2OC(C)=O)[C@H](OC(C)=O)[C@@H]1C,Industry and consumer goods,0
+CN1CC(c2ccc(Cl)c(C(=O)N(COC(=O)OCCCOC(=O)CCC(=O)O)C3(C#N)CC3)c2)=CN1c1n[nH]c(C(F)(F)C(F)(F)F)c1C(F)(F)F,Industry and consumer goods,0
+CN1CCc2c(sc3nc(SCC(=O)N4CCOCC4)n(-c4ccc(Cl)cc4)c(=O)c23)C1,Pharmaceuticals,0
+CN1c2ccccc2C(NCCS(=O)(=O)CC(=O)O)c2ccc(Cl)cc2S1(O)O,Pharmaceuticals,0
+CNC(=O)C1CC(N=[N+]=[N-])C(n2cnc3c(NC(=O)c4cccc(I)c4)nc(Cl)nc32)O1,Pharmaceuticals,0
+CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(OC(F)(F)F)c3)c(F)c2)ccn1,Pharmaceuticals,0
+CNC(=O)c1ccc(CN(Cc2ccco2)C(=O)Cc2csc(-c3ccccc3Cl)n2)cc1,Transformation and metabolic products,0
+CNS(=O)(=O)c1cnc2cc(Cl)cc(F)c2c1Nc1cc(Oc2cc(F)cc(F)c2)cc(C(=O)O)c1,Pesticides,0
+CNc1cccc(CCOc2ccc(C[C@H](NC(=O)c3ccc(Cl)nc3Cl)C(=O)O)cc2)n1,Industry and consumer goods,0
+CO/N=C(\COC(C)C(=O)OC)c1ccccc1Oc1ccc(C(F)(F)F)cc1Cl,Transformation and metabolic products,0
+COC(=O)C(c1ccccc1Cl)N1CCC(SSC[C@H](N)C(=O)O)/C(=C\C(=O)O)C1,Transformation and metabolic products,0
+COC(=O)NCCOC(c1cccc(Cl)c1)c1cc(C(N)=O)cc(C(=O)OC)c1,Industry and consumer goods,0
+COC(=O)[C@@H](C)CC(=O)c1cc2c(F)c(OCCC(C)Br)c(OC)cc2s1,Transformation and metabolic products,0
+COC(=O)[C@H](CCNC(=O)C(=O)NCCn1cncn1)NC(=O)c1ccc(Nc2nc(NC3(c4ccc(Cl)cc4)CC3)nc(OCC(F)(F)F)n2)cc1,Pesticides,0
+COC(=O)[C@H](Cc1ccc(-c2ccc(C#N)cc2)cc1)NC(=O)[C@@H]1Cc2cc3c(cc2CN1C(C)C)OC(c1ccc(OCc2ccc(Cl)c(Cl)c2)cc1)CO3,Industry and consumer goods,0
+COC(=O)c1cc(/C=N/N(c2ccc(C)cc2)S(=O)[O-])c(F)c(F)c1Nc1ccc(I)cc1Cl,Pharmaceuticals,0
+COC(=O)c1cc2cc(NC(=O)CN(Cc3ccc(Cl)cc3Cl)S(=O)(=O)c3ccc(Br)cc3)ccc2s1,Transformation and metabolic products,0
+COC(=O)c1ccc2c3c(Br)cc(C(=O)OC)c4c(C=O)cc(Br)c(c5ccc(C=O)c1c52)c43,Industry and consumer goods,0
+COC1CCC2(C)C(CCC3(C)C4CCC5(C(O)c6nnc(-c7ccc(Cl)cc7)n6CCN)CC(=O)C(C(C)C)=C5C4CCC32)C1(C)C,Transformation and metabolic products,0
+COCCCN(Cc1ccc(Cl)cc1)C[C@H](O)C12CCC3C(CCC4C3(C)CCC3C(C)(C)C(OC(=O)CC(C)(C)C(=O)O)CCC34C)C1=C(C(C)C)C(=O)C2,Pharmaceuticals,0
+COCCNC1CS(=O)c2cc(NC(=O)c3cc([N+](=O)[O-])c(Sc4c(Cl)cncc4Cl)s3)ccc21,Industry and consumer goods,0
+COCCOC(=O)ON1CCc2ccccc2C1c1cc(Cl)ccc1OCC(=O)O,Industry and consumer goods,0
+CO[C@]1(C)C[C@@H](C)CN(C)CCCN(Cc2cccc(Cl)c2)CCOC(=O)C(C)(C)C(=O)[C@H](C)[C@H]1O[C@@H]1O[C@H](C)C[C@H](N(C)C)[C@H]1O,Pharmaceuticals,0
+COc1c(Br)cc(Br)cc1C(=O)Nc1ccc(NC(=S)NC(C)=O)cc1,Transformation and metabolic products,0
+COc1c(Br)cc(C2(c3cc(Br)c(O)c(Br)c3C)OS(=O)c3ccccc32)c(C)c1Br,Personal care products,0
+COc1c(Cl)c(NC(=O)c2csc3c(Nc4ccc(F)c(F)c4F)ncnc23)c(Cl)c(OC)c1Br,Pharmaceuticals,0
+COc1cc(/C=C(\Sc2n[nH]c(-c3ccc(Cl)cc3)n2)C(=O)O)cc(Br)c1OCc1ccccc1F,Industry and consumer goods,0
+COc1cc(/C=C2/SC(=O)N(CC(=O)Nc3ccc(F)c(F)c3F)C2=O)cc(Br)c1OCc1ccc(Br)cc1,Industry and consumer goods,0
+COc1cc(/C=C2/SC(=O)N(CCc3ccccc3)C2=O)cc(Br)c1OCc1ccc(C#N)cc1,Industry and consumer goods,0
+COc1cc(/C=C2/SC(=O)N(Cc3cccc(Br)c3)C2=O)cc(I)c1OCc1ccccc1C#N,Industry and consumer goods,0
+COc1cc(/C=C2/SC(=S)N(c3ccc(Br)cc3)C2=O)ccc1Oc1ccc(C(F)(F)F)cc1[N+](=O)[O-],Transformation and metabolic products,0
+COc1cc(/C=C2\SC(=O)N(Cc3ccccc3)C2=O)cc(Br)c1OCc1ccc(C#N)cc1,Industry and consumer goods,0
+COc1cc(/C=N/NC(=O)CNc2n[nH]c(=O)[nH]c2=O)cc(Br)c1OC(C)C,Transformation and metabolic products,0
+COc1cc(/C=N\NC(=O)c2cc3cc(Br)cc(Br)c3o2)cc(Cl)c1OCc1ccc(Cl)c(Cl)c1,Transformation and metabolic products,0
+COc1cc(CC(=O)Nc2ccc(Cl)c(CN3C(=O)[C@@H](CC(=O)O)O[C@H](c4ccccc4)c4cc(Cl)ccc43)c2)ccc1NC(=O)Nc1ccccc1C,Industry and consumer goods,0
+COc1cc(F)c([C@@H]2CN(CCO)C(=O)[C@H]2NC(=O)NC2(c3cc(Cl)cc(Cl)c3)CC2)c(F)c1,Pharmaceuticals,0
+COc1cc(Nc2cc(C)nc(Oc3ccc(NC(=O)Nc4ccc(C(=O)O)cc4)cc3Cl)n2)[nH]n1,Pesticides,0
+COc1cc(OC)c(NC(=O)Cn2c(=O)n(CC(=O)O)c(=O)c3ccncc32)cc1Cl,Industry and consumer goods,0
+COc1cc([C@H](Cc2c(Cl)cncc2Cl)OC(=O)c2ccc(CN(C(=O)O[C@]34CN5CCC3C4C5)c3ccccc3OC)cc2)ccc1OC(F)F,Pharmaceuticals,0
+COc1cc2[nH]c(=O)cc(Oc3ccc(NC(=O)NC4CC4)c(Cl)c3)c2cc1C(N)=O,Pharmaceuticals,0
+COc1cc2nccc(Oc3ccc(Cl)cc3F)c2cc1C(=O)NCCN1C(=O)SC(C)C1=O,Pharmaceuticals,0
+COc1ccc(/C(C#N)=C/c2cc(Br)cc(Br)c2OCC(=O)O)cc1OC,Industry and consumer goods,0
+COc1ccc(C(=O)Nc2ncnc3c2ncn3[C@@H]2O[C@H](COC(=O)CCC(C)=O)[C@@](O)(OP(=O)(O)Oc3ccccc3Cl)[C@H]2OC2CCCO2)cc1,Industry and consumer goods,0
+COc1ccc(C[C@H]2NC(=O)/C=C/C[C@@H]([C@H](C)[C@@H](OC=O)[C@H](O)c3ccccc3)OC(=O)[C@H](CC(C)C)OC(=O)C(C)(C)CNC2=O)cc1Cl,Industry and consumer goods,0
+COc1ccc(Cl)c2sc(N(Cc3cccnc3)C(=O)c3ccc(NS(=O)(=O)c4ccc(F)cc4)cc3)nc12,Industry and consumer goods,0
+COc1ccc(Cl)cc1C(=O)N/C(=C\c1cccc([N+](=O)[O-])c1)C(=O)Nc1cc(Cl)ccc1C,Industry and consumer goods,0
+COc1ccc(Cl)cc1C(=O)Oc1ccc(Cl)cc1/C=N/NC(=O)c1ccc(NC(C)=O)cc1,Transformation and metabolic products,0
+COc1ccc([C@H](Cc2c(Cl)cncc2Cl)OC(=O)c2ccc(CN(C(=O)O[C@]34CN5CCC3C4C5)c3ccccc3OC(F)F)cc2)cc1OC,Pharmaceuticals,0
+COc1ccc([C@H](NC(=O)[C@@H](Cc2cccc(Cl)c2)Oc2cc(Cl)cc(C#N)c2)C(=O)N[C@H](C(=O)C(F)(F)C(=O)NCC(F)(F)F)C(C)C)cc1,Transformation and metabolic products,0
+COc1ccc([N+](=O)[O-])cc1N(CC(=O)NCCSCc1c(F)cccc1Cl)S(C)(=O)=O,Industry and consumer goods,0
+COc1ccc2c(Nc3c(Cl)cncc3Cl)cc(=O)[nH]c2c1OCCCCC(=O)N[C@@H](CO)C(=O)O,Transformation and metabolic products,0
+CS(=O)(=O)c1ccc(Nc2ncc(F)c(Nc3ccc4c(c3)N(C(=O)CCl)CC43CC3)n2)cc1,Industry and consumer goods,0
+CS(=O)NCC(O)COc1ccc(SOc2cc(Cl)c(OCCCCl)c(Cl)c2)cc1,Transformation and metabolic products,0
+CSc1c(Sc2ccccc2)c(C(Cl)Br)c(I)c(SC2CCCCC2)c1S(=O)(=O)O,Industry and consumer goods,0
+CSc1nn(CC(=O)Nc2ccc(Br)cc2F)c(N)c1S(=O)(=O)c1ccc(F)cc1,Transformation and metabolic products,0
+CSc1sc(NC(=O)Nc2ccc(Cl)cc2C(=O)C2CCCC2)nc1CNS(C)(=O)=O,Transformation and metabolic products,0
+C[C@@H](C(=O)N[C@@H](CC(=O)O)C(=O)c1ncc(-c2c(Cl)cccc2Cl)o1)n1cccc(NC=O)c1=O,Pharmaceuticals,0
+C[C@@H](c1ccc(Cl)c(-n2ncnc2C(F)F)c1)N1C(=O)[C@@](CC(C)(C)C)(c2ccc3c(C(F)F)nccc3c2)N=C1NC(=O)OCc1ccccc1,Transformation and metabolic products,0
+C[C@@H]1[C@@H](C)C/C=C/[C@H](OCC(=O)N2CC(O)(C(F)(F)F)C2)[C@@H]2CC[C@H]2CN2CCCCc3cc(Cl)ccc3COc3ccc(cc32)C(=O)NS1(=O)=O,Transformation and metabolic products,0
+C[C@H](Nc1ncnc2[nH]ccc(=O)c12)c1c(Cl)c2cccc(S(C)(=N)=O)c2c(=O)n1-c1ccccc1,Pharmaceuticals,0
+Cc1c(Br)cc(C[N@+]2(C(=O)O)CCC(N3CCc4ccccc4NC3=O)CC2(CC=O)N2CCC(C3CCN(C)CC3)CC2)cc1Br,Pharmaceuticals,0
+Cc1c(C(=O)O)cccc1-c1ccc(/C=C(\Sc2nnc(-c3ccc(Cl)cc3)o2)C(=O)O)o1,Pesticides,0
+Cc1cc(C(=O)CSC(C)c2ccc(Cl)cc2)c(C)n1C1CCS(=O)(=O)C1,Transformation and metabolic products,0
+Cc1cc(C2=NOC(c3cc(Cl)c(Cl)c(Cl)c3)(C(F)(F)F)C2)[nH]c1C(=O)NCC(=O)NC(F)(F)F,Industry and consumer goods,0
+Cc1cc(C2=NSC(c3cc(Cl)cc(Cl)c3)(C(F)(F)F)C2)ccc1C(=O)CC1CCN(CC(F)(F)F)C1=O,Industry and consumer goods,0
+Cc1cc(I)ccc1NC1(Nc2ccc(I)cc2C)C(C(=O)O)C=C(Br)C(F)(F)C1(F)F,Transformation and metabolic products,0
+Cc1cc(N2C(=O)NC(=O)/C(=C\c3cc(Br)c(OCc4ccccc4C#N)c(Br)c3)C2=O)ccc1Br,Industry and consumer goods,0
+Cc1cc(OCCCC2=C(C(=O)NS(=O)(=O)c3ccc(C(=O)NCc4ccncc4)o3)Cc3c2ccc(Cl)c3-c2c(C)nn(C(C)C)c2C)cc(C)c1Cl,Transformation and metabolic products,0
+Cc1ccc(N2C(=O)C3C4CC(C3C2=O)C2C(c3cccc(Cl)c3Cl)c3sc(=O)[nH]c3SC42)cc1,Industry and consumer goods,0
+Cc1ccc(N2CC(c3nnc(NC(=O)/C=C/c4ccccc4[N+](=O)[O-])s3)CC2=O)cc1Cl,Transformation and metabolic products,0
+Cc1ccc2c(c1)N(C(=O)CSc1nc3ccsc3c(=O)n1-c1ccc(Br)cc1)CCO2,Industry and consumer goods,0
+Cc1cccc(Cl)c1N1C/C=C\CCC(=O)OC[C@H](c2ccccc2)NC(=O)[C@H]2[C@@H]3O[C@@]4(C=C3Br)[C@@H]2C(=O)N([C@@H](CO)CC(C)C)[C@@H]4C1=O,Industry and consumer goods,0
+Cc1nc2ccc(Br)cc2c(=O)n1N=Cc1cn(Cc2ccc(Br)cc2Br)c2ccccc12,Pharmaceuticals,0
+Cc1nnc(NC(=O)C(=O)N2CCCOc3ccc(cc3Cl)CNc3nc(nc(OCC(F)(F)F)n3)Nc3ccc(cc3)C(=O)NCC(C)(C)C2)s1,Pharmaceuticals,0
+Cc1noc(C)c1NC(=O)Nc1ccc2c(c1)C(=O)N([C@H](C)CO)C[C@H](C)[C@H](CN(C)S(=O)(=O)c1ccc(Cl)cc1)OCCCC[C@@H](C)O2,Pharmaceuticals,0
+Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)N1CCN(C(=O)c3ccc(C(=O)O)c(C#CCNC(=O)OC(C)(C)C)c3)CC1)c1nnc(C)n1-2,Industry and consumer goods,0
+Cc1sc2c(c1C)C(c1ccc(Cl)cc1)=N[C@@H](CC(=O)NCC(=O)CCCCCc1cccc3c1CN(C1CCC(=O)NC1=O)C3=O)c1nnc(C)n1-2,Industry and consumer goods,0
+Clc1ccc(OCc2nc3c(OCCCN4CCCCC4CCC4CCCCCCC4)cccc3n2CCCC2CCNCC2)cc1,Pharmaceuticals,0
+Cn1cnc2ccc(Nc3c(F)ccc(N(OC(=O)C(F)(F)F)S(=O)(=O)N4CC[C@@H](F)C4)c3Cl)c(Br)c2c1=O,Industry and consumer goods,0
+Cn1nc(C(F)(F)C(F)(F)F)c(C(F)(F)F)c1-n1cc(-c2ccc(Cl)c(C(=O)N(COC(=O)OCCCOC(O)CCC(=O)O)C3(C#N)CC3)c2)cn1,Industry and consumer goods,0
+N#C/C(=C\c1cc(Br)cc(Br)c1Oc1ccc(C(F)(F)F)cc1[N+](=O)[O-])c1nc2ccccc2[nH]1,Industry and consumer goods,0
+N#C/C(=C\c1cc(Br)cc(Br)c1Oc1ccc([N+](=O)[O-])cc1[N+](=O)[O-])c1ccc([N+](=O)[O-])cc1,Industry and consumer goods,0
+N#C/C(=C\c1ccc(-c2cc(C(F)(F)F)ccc2Cl)o1)C(=O)Nc1ccc(OC(F)(F)F)cc1,Industry and consumer goods,0
+N=C1S/C(=C\c2cc(Br)ccc2OCC(=O)Nc2ccc(Cl)cc2)C(=O)N1c1ccc(Cl)c(Cl)c1,Pharmaceuticals,0
+NC(CC(=O)O)Cn1nnc(-c2ccc(OCCc3cnc(Cl)nc3)cc2F)n1,Industry and consumer goods,0
+NC(N)=NCCCCCCCCCCC(=O)NCCCC[C@H](N=C(N)N)C(=O)NCCN1CCC(NC(=O)C(=O)Nc2ccc(Cl)cc2)CC12CCCCC2,Transformation and metabolic products,0
+NCCSCc1nsnc1SC1=C(C(=O)O)N2C(=O)[C@@H](NC(=O)C(N=O)c3nc(N)ccc3Cl)[C@@H]2SC1,Pharmaceuticals,0
+NNC(c1cc(Cl)ccc1I)c1ccc(Br)c(Cl)c1F,Industry and consumer goods,0
+NS(=O)(=O)OC[C@H]1O[C@@H](n2cnc3c(C#Cc4cccc(Br)c4)ncnc32)[C@H](O)[C@@H]1O,Pharmaceuticals,0
+NS(=O)(=O)c1ccc(NCCC(=O)Nc2ccc(OC(F)F)c(Cl)c2)c([N+](=O)[O-])c1,Industry and consumer goods,0
+NS(=O)(=O)c1cccc(-c2ccc(Oc3ncsc3-c3ccnc(N[C@H]4CCCNC4)n3)c(F)c2)c1Cl,Pharmaceuticals,0
+Nc1nc(-n2cc(OC(=O)O)c(=O)c3cc(F)c(N4CC(O)C4)c(Cl)c32)c(F)cc1F,Pharmaceuticals,0
+O=C(CC(Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1)c1cccc(F)c1)c1ccc(Br)cc1,Pharmaceuticals,0
+O=C(CCC(F)(F)F)N[C@H]1CCCCCCC[C@@H]2C[C@@]2(C(=O)NS(=O)(=O)C2CC2)NC(=O)[C@@H]2C[C@@H](OC(=O)N3Cc4cccc(Cl)c4C3)CN2C1=O,Pharmaceuticals,0
+O=C(CCCCCCC(=O)Nc1cccc2c1CN(C1CCC(=O)NC1=O)C2=O)NCCOc1ccc(C(=C(CCCl)c2ccccc2)c2ccc(O)cc2)cc1,Transformation and metabolic products,0
+O=C(CCN1C(=O)/C(=C/c2ccccc2)SC1=S)Oc1cc(-c2ccc(Cl)cc2)c2oc(=O)sc2c1,Pharmaceuticals,0
+O=C(CCc1cccc(F)c1F)C(=O)NCC[C@H](NC(=O)c1ccc(Nc2nc(NC3(c4ccc(Cl)cc4)CC3)nc(OCC(F)(F)F)n2)cc1)C(=O)O,Transformation and metabolic products,0
+O=C(CN(C(=O)c1ccccc1[N+](=O)[O-])N1C(=O)c2c(Cl)c(Cl)c(Cl)c(Cl)c2C1=O)c1ccc([N+](=O)[O-])cc1,Transformation and metabolic products,0
+O=C(CN1C(=O)/C(=C2/SC(=O)NC2=O)c2cc(Br)ccc21)Nc1cccc(C(F)(F)F)c1,Transformation and metabolic products,0
+O=C(CONC(=O)c1cc(F)cc(Br)c1NC(=O)c1cc(Br)nn1-c1ncccc1Cl)Nc1ccccc1,Transformation and metabolic products,0
+O=C(COc1ccc(Cl)c(Cl)c1)NC1=C2CC(NC(=O)c3ccc(C(F)(F)F)cn3)(C2)C[C@@H]1O,Transformation and metabolic products,0
+O=C(Cc1c(O)n(-c2ccccc2)c(=S)n1CCc1ccc(Cl)cc1)Nc1ccc(Cl)cc1,Transformation and metabolic products,0
+O=C(Cc1ccc(F)cc1F)C(=O)NCC[C@H](NC(=O)c1ccc(Nc2nc(NC3(c4ccc(Cl)cc4)CC3)nc(OCC(F)(F)F)n2)cc1)C(=O)O,Transformation and metabolic products,0
+O=C(NCc1ccccc1Sc1ccccc1)[C@]1(Cc2ccccc2Br)N=C(c2ccc(OCCCO)cc2)O[C@@H]1c1ccc(-c2ccccc2)cc1,Industry and consumer goods,0
+O=C(NNc1ncnc(Nc2nc3ccccc3s2)c1[N+](=O)[O-])c1ccc(Cl)c([N+](=O)[O-])c1,Industry and consumer goods,0
+O=C(NOC(=O)C1CC1)c1ccc(/C(F)=C/C(c2cc(Cl)c(Cl)c(Cl)c2)C(F)(F)F)cc1C(F)(F)F,Industry and consumer goods,0
+O=C(NOc1c(C(F)(F)F)ncc([N+](=O)[O-])c1-c1cc(Cl)c(Cl)c(Cl)c1)c1ccccc1,Transformation and metabolic products,0
+O=C(N[C@@H](Cc1ccc(Cl)c(Br)c1)C(=O)O)c1ccc(I)cc1NS(=O)(=O)C1=CC=CN2SNC=C12,Industry and consumer goods,0
+O=C(Nc1cccc(C(=O)O)c1)Nc1cc2c(cc1Cl)[nH]c(=O)n1nc(C(=O)O)c(C(=O)O)c21,Industry and consumer goods,0
+O=C(O)CCCCCN1C(=O)/C(=C/c2cc(Br)ccc2OCC(=O)Nc2ccc(F)cc2)SC1=S,Industry and consumer goods,0
+O=C(O)CCCCC[n+]1ccc(-c2nc3ccc(OCCCS(=O)(=O)O)cc3o2)c(Cl)c1,Industry and consumer goods,0
+O=C(O)COc1c(Br)cc(/C=C2\SC(=O)N(CC(=O)N3CCCCC3)C2=O)cc1I,Transformation and metabolic products,0
+O=C(O)Cn1c(O)cc(-c2nn(C(=O)c3cnoc3)c(NCc3ccc(Cl)s3)c2F)cc1=O,Pharmaceuticals,0
+O=C1C(=C2Oc3ccc(Cl)cc3N2CCCCS(=O)(=O)O)N(CCO)C(=S)N1c1ccccn1,Industry and consumer goods,0
+O=C1NC(=S)N(c2ccccc2F)C(=O)/C1=C/c1cc(Br)c(OCc2ccc(Br)cc2)c(I)c1,Industry and consumer goods,0
+O=C1NC(S(=O)(=O)O)SC1Cc1cccc2c1CCC(=O)N2Cc1ccc(Cl)nc1,Pesticides,0
+O=CC1(CNc2ccc(Cl)c(C(=O)NC3CC(F)(F)C3)c2)C(c2cc(Br)cc(Br)c2)C1(Cl)Cl,Pharmaceuticals,0
+O=[N+]([O-])c1ccccc1S(=O)(=O)NC(CCc1c(Br)cccc1Br)c1ccccc1OC(F)(F)C(F)F,Industry and consumer goods,0
+O=c1[nH]c(CN2CCN(CC(F)(F)F)CC2)nc2c(Br)cc(Br)cc12,Industry and consumer goods,0
+[C-]#[N+]c1cc(Cl)cc(Oc2c(Br)ccc(Cc3nn(COP(=O)(O)O)c4ncccc34)c2F)c1,Pharmaceuticals,0
