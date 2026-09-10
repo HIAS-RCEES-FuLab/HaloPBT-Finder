@@ -1,4 +1,4 @@
-HaloPBT-Finder
+# HaloPBT-Finder
 
 HaloPBT-Finder is an integrated platform for screening of chlorinated and brominated organic compounds (Cl/Br-HOCs), comprising an interpretable multimodal neural network and downstream structural annotation.
 
