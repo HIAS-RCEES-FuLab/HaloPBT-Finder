@@ -52,7 +52,7 @@ The model reproduction workflow is organized into three main folders:
 
 1. **Code for Database Extraction and Labeling**
    
-   This folder contains the scripts for raw data preprocessing and cleaning. The internal steps are explicitly labeled. Users can execute the scripts sequentially according to the provided step numbers and modify the data paths according to their local environment.
+   This folder contains the scripts for extracting data from different databases, standardizing metadata, and merging the processed datasets. The internal steps are explicitly labeled. Users can execute the scripts sequentially according to the provided step numbers and modify the data paths according to their local environment.
 
 2. **Code for Data Preprocessing and Engineering**
    
