@@ -63,3 +63,76 @@ The model reproduction workflow is organized into three main folders:
    This folder contains the scripts for model development and evaluation, including training and testing of the proposed model, baseline models, and ablation models, as well as downstream model interpretability analysis.
 
 By following the three folders in order, users can reproduce the complete model development workflow, from database extraction and compound labeling, through data preprocessing and feature engineering for PBT and halogen classification, to model training, evaluation, and interpretability analysis.
+
+---
+
+## Platform
+
+The graphical user interface of HaloPBT-Finder is shown below.
+
+The platform consists of three main modules: **Peak Feature Mining**, **Feature Filtering**, and **Identification**.
+
+### Peak Feature Mining Parameter Settings
+
+This module is used for MS feature extraction and preprocessing.
+
+- **Scan mode**
+  - **DDA** is the recommended acquisition mode because each MS/MS spectrum is directly associated with its precursor ion.
+  - **DIA** and **Full Scan** data are also supported. For DIA data, CaPFAS performs model prediction using the acquired window-based MS/MS spectra because precursor-specific MS/MS spectra are unavailable. For Full Scan data, where no MS/MS spectra are acquired, the model utilizes the acquired full-scan MS spectra and potential in-source fragmentation ions for prediction.
+
+- **Ion mode**
+  - Select the ionization mode according to the experimental data.
+  - **The current PFAS identification model is trained for negative ion mode only**, and therefore negative mode is recommended for PFAS analysis.
+
+- **Noise threshold**
+  - Defines the intensity threshold for noise removal.
+  - This parameter should be adjusted according to the performance and noise characteristics of the mass spectrometer used.
+
+- **Reverse analysis**
+  - Directly analyzes all acquired MS/MS spectra without performing peak feature extraction.
+
+- **Extract MS/MS**
+  - Extracts MS/MS spectra associated with detected features for downstream analysis.
+
+- **Single-trace filtering**
+  - Uses the OpenMS single-trace filtering algorithm to remove low-confidence features and reduce potential false-positive peaks.
+
+- **Adduct annotation**
+  - Annotates supported adduct ions according to predefined adduct rules.
+
+### Feature Filtering
+
+This module performs candidate screening.
+
+- **Filtering method**
+  - **PFAS ML** (default): the multimodal CaPFAS model developed in this work.
+  - Traditional screening methods are also available, including:
+    - Mass defect filtering
+    - Diagnostic fragment ion filtering
+    - Neutral loss filtering
+  - These methods can be combined using the options in **Unit Settings**.
+
+### Identification
+
+This module performs hierarchical compound identification.
+
+1. **Exact mass and isotope pattern matching**.
+2. **Theoretical fragment prediction and matching**.The fragmentation tree depth determines the level of theoretical fragmentation. Increasing the tree depth produces more predicted fragments for matching.
+3. **MS/MS spectral matching** against reference spectra.
+
+All matching parameters can be customized according to the analytical requirements.
+
+### Input and Output Settings
+
+This module is used to configure the input mass spectrometry files and the output directory.
+
+- **Input files**
+  - CaPFAS currently supports standardized **mzML** format files.
+  - Click **Browse** to navigate to the directory containing the target MS files.
+  - Click **Add File** to add the selected file(s) to the processing queue.
+
+- **Output directory**
+  - Click **Browse** to specify the directory for saving analysis results.
+
+- **Run analysis**
+  - After configuring all parameters, click **Start** to begin processing. The platform will automatically execute the complete workflow, including feature mining, feature filtering, compound identification, and result generation.
