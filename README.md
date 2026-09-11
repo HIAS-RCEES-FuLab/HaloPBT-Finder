@@ -35,3 +35,31 @@ HaloPBT-Finder was developed and tested on a personal computer with the followin
 - Storage: Approximately 2 GB of free storage space is sufficient for the executable program, models, and example files.
 
 This configuration is sufficient for HaloPBT-Finder development and routine Cl/Br-HOC screening workflows. Additional storage space may be required when processing user-provided MS files or large spectral libraries.
+
+## Software Requirements
+
+HaloPBT-Finder was developed using PyCharm 2024.3.4 with Python 3.9. The required Python dependencies are provided in the `requirements.txt` file.
+
+The dependencies can be installed using the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Model Reproduction Workflow
+
+The model reproduction workflow is organized into three main folders:
+
+1. **Code for Database Extraction and Labeling**
+   
+   This folder contains the scripts for raw data preprocessing and cleaning. The internal steps are explicitly labeled. Users can execute the scripts sequentially according to the provided step numbers and modify the data paths according to their local environment.
+
+2. **Code for Data Preprocessing and Engineering**
+   
+   This folder contains two subfolders for the preprocessing and feature engineering of PBT and halogen data, respectively. The internal steps in each subfolder are explicitly numbered and should be executed sequentially after completing the database extraction and labeling. Users only need to update the relevant data paths according to their local environment before running the scripts.
+
+3. **Code for Model Training and Interpretability Analysis**
+   
+   This folder contains the scripts for model development and evaluation, including training and testing of the proposed model, baseline models, and ablation models, as well as downstream model interpretability analysis.
+
+By following the three folders in order, users can reproduce the complete model development workflow, from database extraction and compound labeling, through data preprocessing and feature engineering for PBT and halogen classification, to model training, evaluation, and interpretability analysis.
