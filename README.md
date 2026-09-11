@@ -70,7 +70,9 @@ By following the three folders in order, users can reproduce the complete model 
 
 The graphical user interface of HaloPBT-Finder is shown below.
 
-The platform consists of three main modules: **Peak Feature Mining**, **Feature Filtering**, and **Identification**.
+<img width="725" height="662" alt="fig" src="https://github.com/user-attachments/assets/0d623412-8676-43af-8e10-01cf83b05d9e" />
+
+The platform consists of two main modules: **Peak Feature Mining** and **Identification**.
 
 ### Peak Feature Mining Parameter Settings
 
@@ -78,18 +80,14 @@ This module is used for MS feature extraction and preprocessing.
 
 - **Scan mode**
   - **DDA** is the recommended acquisition mode because each MS/MS spectrum is directly associated with its precursor ion.
-  - **DIA** and **Full Scan** data are also supported. For DIA data, CaPFAS performs model prediction using the acquired window-based MS/MS spectra because precursor-specific MS/MS spectra are unavailable. For Full Scan data, where no MS/MS spectra are acquired, the model utilizes the acquired full-scan MS spectra and potential in-source fragmentation ions for prediction.
+  - **DIA** and **Full Scan** data are also supported. For DIA data, HaloPBT-Finder performs model prediction using the acquired window-based MS/MS spectra because precursor-specific MS/MS spectra are unavailable. For Full Scan data, where no MS/MS spectra are acquired, the model utilizes the acquired full-scan MS spectra and potential in-source fragmentation ions for prediction.
 
 - **Ion mode**
-  - Select the ionization mode according to the experimental data.
-  - **The current PFAS identification model is trained for negative ion mode only**, and therefore negative mode is recommended for PFAS analysis.
+  - Select Positive or Negative according to the ionization mode of the experimental data.
 
 - **Noise threshold**
   - Defines the intensity threshold for noise removal.
   - This parameter should be adjusted according to the performance and noise characteristics of the mass spectrometer used.
-
-- **Reverse analysis**
-  - Directly analyzes all acquired MS/MS spectra without performing peak feature extraction.
 
 - **Extract MS/MS**
   - Extracts MS/MS spectra associated with detected features for downstream analysis.
@@ -100,24 +98,15 @@ This module is used for MS feature extraction and preprocessing.
 - **Adduct annotation**
   - Annotates supported adduct ions according to predefined adduct rules.
 
-### Feature Filtering
+- **Feature filtering**
+  - Uses machine learning models to simultaneously predict halogen content and PBT properties.
 
-This module performs candidate screening.
-
-- **Filtering method**
-  - **PFAS ML** (default): the multimodal CaPFAS model developed in this work.
-  - Traditional screening methods are also available, including:
-    - Mass defect filtering
-    - Diagnostic fragment ion filtering
-    - Neutral loss filtering
-  - These methods can be combined using the options in **Unit Settings**.
-
-### Identification
+### Identification Parameter Settings
 
 This module performs hierarchical compound identification.
 
 1. **Exact mass and isotope pattern matching**.
-2. **Theoretical fragment prediction and matching**.The fragmentation tree depth determines the level of theoretical fragmentation. Increasing the tree depth produces more predicted fragments for matching.
+2. **Theoretical fragment calculation**. The fragmentation tree depth determines the level of theoretical fragmentation. Increasing the tree depth produces more predicted fragments for matching.
 3. **MS/MS spectral matching** against reference spectra.
 
 All matching parameters can be customized according to the analytical requirements.
@@ -126,13 +115,13 @@ All matching parameters can be customized according to the analytical requiremen
 
 This module is used to configure the input mass spectrometry files and the output directory.
 
-- **Input files**
-  - CaPFAS currently supports standardized **mzML** format files.
+- **File input**
+  - HaloPBT-Finder currently supports standardized **mzML** format files.
   - Click **Browse** to navigate to the directory containing the target MS files.
   - Click **Add File** to add the selected file(s) to the processing queue.
 
-- **Output directory**
+- **Output path**
   - Click **Browse** to specify the directory for saving analysis results.
 
-- **Run analysis**
+- **Analysis processing**
   - After configuring all parameters, click **Start** to begin processing. The platform will automatically execute the complete workflow, including feature mining, feature filtering, compound identification, and result generation.
