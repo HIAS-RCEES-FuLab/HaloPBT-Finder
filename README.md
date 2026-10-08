@@ -66,18 +66,14 @@ By following the three folders in order, users can reproduce the complete model 
 
 ### Demo Testing
 
-We provide demo models and testing scripts in the **Demo models and testing code** folder for users who wish to directly test the trained models without reproducing the complete model development workflow.
+We provide demo models and testing scripts in the Demo models and testing code folder. Users can directly test the provided models using the corresponding scripts without reproducing the complete model development workflow.
 
-Users can run the corresponding prediction script:
+For PBT prediction, run:
 
 ```bash
 python Demo_PBT_predict_model.py
-
-to directly test the corresponding model on the provided fixed test datasets.
-
-The demo scripts load the provided trained models and evaluate their performance on the corresponding test datasets. This provides a straightforward way to verify model execution and reproduce the reported test performance without repeating the complete data processing and model training workflow.
-
-For example, the expected output for PBT testing is:
+```
+The script loads the provided PBT models and fixed test datasets and evaluates the model performance. The expected output is:
 
 ============================================================
 Average Test Results Across 5 Folds:
