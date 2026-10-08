@@ -64,11 +64,36 @@ The model reproduction workflow is organized into three main folders:
 
 By following the three folders in order, users can reproduce the complete model development workflow, from database extraction and compound labeling, through data preprocessing and feature engineering for PBT and halogen classification, to model training, evaluation, and interpretability analysis.
 
+### Demo Testing
+
+We provide demo models and testing scripts in the **Demo models and testing code** folder for users who wish to directly test the trained models without reproducing the complete model development workflow.
+
+Users can run the corresponding prediction script:
+
+```bash
+python Demo_PBT_predict_model.py
+
+to directly test the corresponding model on the provided fixed test datasets.
+
+The demo scripts load the provided trained models and evaluate their performance on the corresponding test datasets. This provides a straightforward way to verify model execution and reproduce the reported test performance without repeating the complete data processing and model training workflow.
+
+For example, the expected output for PBT testing is:
+
+============================================================
+Average Test Results Across 5 Folds:
+============================================================
+Metric          Mean       Std
+-----------------------------------
+Accuracy        0.8928     0.0136
+PR-AUC          0.8451     0.0310
+ROC-AUC         0.9215     0.0074
+============================================================
+
 ---
 
 ## Platform
 
-The graphical user interface of HaloPBT-Finder is shown below.
+The graphical user interface of HaloPBT-Finder is shown below. The precompiled executable is available in the GitHub Releases. After downloading and extracting the package, simply double-click the executable to launch the software. No installation is required.
 
 <img width="725" height="662" alt="fig" src="https://github.com/user-attachments/assets/0d623412-8676-43af-8e10-01cf83b05d9e" />
 
