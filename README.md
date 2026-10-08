@@ -75,8 +75,10 @@ python Demo_PBT_predict_model.py
 ```
 The script loads the provided PBT models and fixed test datasets and evaluates the model performance. The expected output is:
 
-Average Test Results Across 5 Folds:
+Average Test Results Across 5 Folds
+
 Metric          Mean       Std
+-----------------------------------
 Accuracy        0.8928     0.0136
 PR-AUC          0.8451     0.0310
 ROC-AUC         0.9215     0.0074
