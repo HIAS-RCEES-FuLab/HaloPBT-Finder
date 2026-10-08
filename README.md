@@ -73,7 +73,6 @@ For PBT prediction, run:
 ```bash
 python Demo_PBT_predict_model.py
 ```
-The Halogen prediction can be tested similarly using Demo_halogen_predict_model.py.
 The script loads the provided PBT models and fixed test datasets and evaluates the model performance. The expected output is:
 
 **Average Test Results Across 5 Folds**
@@ -84,6 +83,7 @@ The script loads the provided PBT models and fixed test datasets and evaluates t
 | PR-AUC | 0.8451 | 0.0310 |
 | ROC-AUC | 0.9215 | 0.0074 |
 
+The Halogen prediction can be tested similarly using Demo_halogen_predict_model.py.
 ---
 
 ## Platform
